@@ -3,9 +3,9 @@
 #### 介绍
 直播源订阅分享，台标LOGO。
 
-#### 软件架构
-软件架构说明
+#### 直播源订阅地址
 
+https://gitee.com/jackguo1982/iptv/raw/master/IPTV.m3u
 
 #### 安装教程
 
