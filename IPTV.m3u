@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/us.xml.gz"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225829/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经
@@ -12,7 +12,7 @@ http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+体育赛事
 http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226349/1.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6电影
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226468/1.m3u8
+http://39.135.138.58:18890/PLTV/88888888/224/3221225632/index.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7国防军事
 http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226467/1.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8电视剧
@@ -28,19 +28,15 @@ http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226462/1.m3u
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13新闻
 http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14少儿
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226229/1.m3u8
+http://39.135.138.58:18890/PLTV/88888888/224/3221225640/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐
 http://39.134.134.88/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226333/1.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农村农业
 http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226318/1.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K超高清
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K超高清 备用
-http://117.148.178.12/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/42330389.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K超高清 备用2
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/CCTV-%E8%80%81%E6%95%85%E4%BA%8B.png" group-title="央视",CCTV 老故事
-http://27.36.62.163:9090/live/laogushi_1500.m3u8?t=A5ZjU2OThiNjAxMzExMTBkN==&u=freeuser&p=8&pid=&cid=&d=b60131110d72d53&sid=i4qv5CL1hVjKS+L6BfEfHQ==&r=20210816163722&e=20210817163727&nc=mg0YcVyQ9eG5&a=7&v=2&isSuma=1&hlsSessionID=15925855795374544693&srchost=172.16.149.181:8060&gid=0czacO3UqmgCWutOpvOH3Q%3D%3D
+http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 #EXTINF:-1 tvg-name="中学生" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/CCTV-%E4%B8%AD%E5%AD%A6%E7%94%9F.png" group-title="央视",CCTV 中学生
 http://hlsmgsplive.miguvideo.com:8080/migu/kailu/20210415/cctvzhongxuesheng/51/20210528041320-01-1027996.ts?msisdn=2021081616244714129fc461f545bdbd9ce64f5f8e5fc4&mdspid=&spid=699004&netType=0&sid=5910019355&pid=2028597139&timestamp=20210816162447&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=708869532&ParentNodeID=-99&assertID=5910019355&client_ip=39.134.43.62&SecurityKey=20210816162447&mvid=5900002149&mcid=500020&mpid=&playurlVersion=SJ-A1-4.7.1&userid=&jmhm=&videocodec=h264&bean=mgspwww&mtv_session=0cde7d5ad0e4a86b04f95b0d426fbc08&encrypt=3aac9211d315ed142a5dacfd8ef57035&hls_type=16&HlsSubType=1&HlsProfileId=1&nphaid=0
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/CCTV-%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA.png" group-title="央视",CCTV 第一剧场
@@ -58,7 +54,7 @@ http://27.36.62.162:9090/live/weishengjiankang_1500.m3u8?t=A5ZjU2OThiNjAxMzExMTB
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/CCTV-%E5%85%B5%E5%99%A8%E7%A7%91%E6%8A%80.png" group-title="央视",CCTV 兵器科技
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/CCTV-%E5%8F%91%E7%8E%B0%E4%B9%8B%E6%97%85.png" group-title="央视",CCTV 发现之旅
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
+http://223.110.241.137:6610/gitv/live1/G_FAXIANZL/G_FAXIANZL/.m3u8
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/CCTV-%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86.png" group-title="央视",CCTV 世界地理
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="央视精品" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/CCTV-%E5%A4%AE%E8%A7%86%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81.png" group-title="央视",CCTV 央视文化精品
@@ -110,7 +106,7 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225657/index.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
 http://39.134.155.215/PLTV/88888888/224/3221225642/index.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231292/1/index.m3u8?fmt=ts2hls
+http://39.135.138.58:18890/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视
 http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
@@ -118,7 +114,7 @@ http://39.134.155.133/PLTV/88888888/224/3221225634/index.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
 http://39.135.138.60:18890/PLTV/88888910/224/3221225705/index.m3u8
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226507/1.m3u8
+http://39.135.138.58:18890/PLTV/88888888/224/3221225610/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226947/index.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
@@ -150,7 +146,7 @@ http://39.135.230.88/ott.fj.chinamobile.com/PLTV/88888888/224/3221226967/index.m
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226881/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226239/1.m3u8
+http://39.134.66.10/PLTV/88888888/224/3221225849/index.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
 http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视 标清
@@ -203,6 +199,8 @@ http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E8%90%8C%E5%AE%A0TV.png" group-title="北京",萌宠TV
 http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
+#EXTINF:-1 tvg-id="7240" tvg-name="IPTV3+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV3+.png" group-title="IPTV",IPTV3+
+http://192.168.2.1:1111/137.ts
 #EXTINF:-1 tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="IPTV",IPTV5+
 http://39.134.39.39/PLTV/88888888/224/3221226273/index.m3u8
 #EXTINF:-1 tvg-name="IPTV5+" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/iptv5%20%E9%AB%98%E6%B8%85.png" group-title="IPTV",IPTV5+高清
@@ -219,6 +217,14 @@ http://39.134.39.22:80/PLTV/88888888/224/3221226258/index.m3u8?icpid=88888888&fr
 http://39.134.39.22:80/PLTV/88888888/224/3221226256/index.m3u8?icpid=88888888&from=26&hms_devid=685,672&online=1628522721&vqe=3
 #EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/iptv%E7%9B%B8%E5%A3%B0%E5%B0%8F%E5%93%81.png" group-title="IPTV",IPTV相声小品
 http://39.134.39.32:80/PLTV/88888888/224/3221226260/index.m3u8?icpid=88888888&from=26&hms_devid=685,680&online=1628522758&vqe=3
+#EXTINF:-1 tvg-id="103" tvg-name="IPTV少儿动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV少儿动画.png" group-title="IPTV",IPTV少儿动画
+http://192.168.2.1:1111/70.ts
+#EXTINF:-1 tvg-id="102" tvg-name="IPTV热播剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV热播剧场.png" group-title="IPTV",IPTV热播剧场
+http://192.168.2.1:1111/69.ts
+#EXTINF:-1 tvg-id="101" tvg-name="IPTV经典电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV经典电影.png" group-title="IPTV",IPTV经典电影
+http://192.168.2.1:1111/68.ts
+#EXTINF:-1 tvg-id="104" tvg-name="IPTV魅力时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV魅力时尚.png" group-title="IPTV",IPTV魅力时尚
+http://192.168.2.1:1111/71.ts
 #EXTINF:-1 tvg-name="新动漫" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E6%96%B0%E5%8A%A8%E6%BC%AB.png" group-title="少儿",新动漫
 http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E9%BB%91%E8%8E%93%E5%8A%A8%E7%94%BB.png" group-title="少儿",黑莓动画
@@ -227,14 +233,14 @@ http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225914/1.m3u8
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/1.m3u8
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E5%93%88%E5%93%88%E7%82%AB%E5%8A%A8.png" group-title="少儿",哈哈炫动
 http://112.25.48.13/live/program/live/hhxdhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A.png" group-title="少儿",嘉佳卡通
-http://117.136.156.107/PLTV/88888888/224/3221225637/index.m3u8
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A.png" group-title="少儿",优漫卡通
 http://117.136.156.107/PLTV/88888888/224/3221225556/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA.png" group-title="少儿",动漫秀场
 http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E7%82%AB%E5%8A%A8%E5%8D%A1%E9%80%9A.png" group-title="少儿",炫动卡通
 http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/xuandongkaton/1.m3u8
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A.png" group-title="少儿",嘉佳卡通
+http://117.136.156.107/PLTV/88888888/224/3221225637/index.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png" group-title="少儿",金鹰卡通
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227018/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E5%8D%97%E4%BA%AC%E5%B0%91%E5%84%BF.png" group-title="少儿",南京少儿
@@ -251,10 +257,16 @@ http://39.134.39.39/PLTV/88888888/224/3221226289/index.m3u8
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226960/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E5%86%85%E8%92%99%E5%8F%A4%E5%B0%91%E5%84%BF.png" group-title="少儿",内蒙古少儿
 http://live5.m2oplus.nmtv.cn/4/sd/live.m3u8
-#EXTINF:-1 group-title="少儿",云朵妈妈
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/f2zhRLqwRLrKhEMeIM7Z5buJFo3.jpg" group-title="少儿",龙珠Z
+http://bd.hls.huya.com/src/2293333915-2293333915-9849794163732643840-4586791286-10057-A-0-1.m3u8?wsSecret=92c58c4e98815f56cc1ea249fb724853&wsTime=611e2887&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Ad3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/xLhNEkZ58CFX2WAbuAlnOaa4sSY.jpg" group-title="少儿",龙珠超
+http://bd.hls.huya.com/src/146501201-146501201-629217867119722496-293125858-10057-A-0-1.m3u8?wsSecret=ec2fc0c3e1749c1ed9b844289cca20af&wsTime=611e28a7&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Afz6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/i7iAASvVMkbLxqO7h3iB5zMvIoo.jpg" group-title="少儿",蜡笔小新
+http://tx.hls.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.m3u8?wsSecret=622171e13ac4125efc1db7bf09edddb2&wsTime=611e29c4&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Ad2%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
 #EXTINF:-1 group-title="少儿",倒霉特熊
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
+#EXTINF:-1 group-title="少儿",云朵妈妈
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
 #EXTINF:-1 group-title="少儿",反转星球
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
 #EXTINF:-1 group-title="少儿",熊大熊二
@@ -331,6 +343,8 @@ http://111.20.105.60:6060/yinhe/2/ch00000090990000002305/index.m3u8?virtualDomai
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226556/1.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E4%B8%AD%E5%8D%8E%E7%89%B9%E4%BA%A7.png" group-title="生活",中华特产
 http://play.zhtctv.cn/portal/btv.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/imodeTV.png" group-title="生活",imodeTV时尚频道
+https://juyunlive.juyun.tv/live/24950198.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/EETV%E7%94%9F%E6%80%81%E7%8E%AF%E5%A2%83.png" group-title="生活",生态环境
 http://111.20.45.161:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8?icpid=88888888&from=1&hms_devid=423&vqe=3
 #EXTINF:-1 tvg-name="国学" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E5%9B%BD%E5%AD%A6%E9%A2%91%E9%81%93.png" group-title="生活",国学频道
@@ -367,6 +381,8 @@ https://tv.lanjingfm.com/cctbn/sichuan.m3u8
 https://tv.lanjingfm.com/cctbn/hainan.m3u8
 #EXTINF:-1 group-title="生活",数码时代高清
 http://yd-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-id="1162" tvg-name="DV生活频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dv_shenghuo.png" group-title="生活",DV生活频道
+http://192.168.2.1:1111/228.ts
 #EXTINF:-1 tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="纪录",全纪实
 http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="环球奇观" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUANQIUQIGUAN.jpg" group-title="纪录",环球奇观
@@ -383,40 +399,36 @@ http://111.20.105.60:6060/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomai
 http://124.232.231.246:6610/000000001001/201500000240/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="纪录",金鹰纪实 备用2
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226937/index.m3u8
+#EXTINF:-1 tvg-name="求索生活" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E6%B1%82%E7%B4%A2%E7%94%9F%E6%B4%BB.png" group-title="纪录",求索生活
+http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E6%B1%82%E7%B4%A2%E7%BA%AA%E5%BD%95.png" group-title="纪录",求索纪录
+http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1 tvg-name="求索科学" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E6%B1%82%E7%B4%A2%E7%A7%91%E5%AD%A6.png" group-title="纪录",求索科学
+http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
+#EXTINF:-1 tvg-name="求索动物" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E6%B1%82%E7%B4%A2%E5%8A%A8%E7%89%A9.png" group-title="纪录",求索动物
+http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E6%9D%8E%E5%AD%90%E6%9F%92.png" group-title="纪录",美食李子柒
 http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
-#EXTINF:-1 tvg-name="求索生活" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E6%B1%82%E7%B4%A2%E7%94%9F%E6%B4%BB.png" group-title="求索频道",求索生活
-http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E6%B1%82%E7%B4%A2%E7%BA%AA%E5%BD%95.png" group-title="求索频道",求索纪录
-http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1 tvg-name="求索科学" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E6%B1%82%E7%B4%A2%E7%A7%91%E5%AD%A6.png" group-title="求索频道",求索科学
-http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1 tvg-name="求索动物" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E6%B1%82%E7%B4%A2%E5%8A%A8%E7%89%A9.png" group-title="求索频道",求索动物
-http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/4K%E8%8A%B1%E5%9B%AD.png" group-title="4K超清",4K花园
 http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
 #EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E7%BA%AF%E4%BA%AB4K.png" group-title="4K超清",纯享4K
 http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
-#EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E7%BA%AF%E4%BA%AB4K.png" group-title="4K超清",纯享4K 备用
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E7%BA%AF%E4%BA%AB4K.png" group-title="4K超清",纯享4K 备用2
+#EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E7%BA%AF%E4%BA%AB4K.png" group-title="4K超清",纯享4K 备用1
 http://39.134.155.159/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E7%BA%AF%E4%BA%AB4K.png" group-title="4K超清",纯享4K 备用2
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E7%88%B1%E4%B8%8A4K.png" group-title="4K超清",爱上4K
 http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
-#EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E7%88%B1%E4%B8%8A4K.png" group-title="4K超清",爱上4K 备用
-http://111.20.105.60:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/VR%E6%B5%8B%E8%AF%95%E9%A2%91%E9%81%93.png" group-title="4K超清",VR测试
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230560/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3D.png" group-title="4K超清",炫动3D
 http://125.210.152.21:9120/live/XD3D.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E5%92%AA%E5%92%954K.png" group-title="4K超清",咪咕4K
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226399/1.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/BesTV-4K.png" group-title="4K超清",BesTV 4K
-http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226952/1.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/BesTV-4K.png" group-title="4K超清",BesTV记录
 http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226952/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/BesTV-4K.png" group-title="4K超清",BesTV电影
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/01.m3u8?fmt=ts2hls
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227134/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/Dox-4K.png" group-title="4K超清",DOX 4K
 http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226019/1.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/IPTV%204K.png" group-title="4K超清",IPTV 4K
@@ -439,6 +451,12 @@ http://111.20.105.60:6060/yinhe/2/ch00000090990000002295/index.m3u8?virtualDomai
 http://39.135.138.60:18890/PLTV/88888910/224/3221225653/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E9%BB%91%E8%8E%93%E7%94%B5%E7%AB%9E.png" group-title="游戏电竞",黑莓电竞 备用
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225931/1.m3u8
+#EXTINF:-1 tvg-id="85" tvg-name="电竞天堂" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dianjingtiantang.png" group-title="游戏电竞",电竞天堂
+http://192.168.2.1:1111/65.ts
+#EXTINF:-1 tvg-id="1303" tvg-name="GTV游戏竞技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/gtv_youxi.png" group-title="游戏电竞",GTV游戏竞技
+http://192.168.2.1:1111/199.ts
+#EXTINF:-1 tvg-id="1306" tvg-name="网络棋牌" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wangluoqipai.png" group-title="游戏电竞",GTV网络棋牌
+http://192.168.2.1:1111/200.ts
 #EXTINF:-1 tvg-logo="https://s.pc.qq.com/tousu/img/20210717/266153_1626524669.jpg" group-title="电影精选",黑寡妇
 https://nhls.mcloud.139.com/hls/KEc2d70882b0125862a1dc4700348c7a32/single/video/0/1080/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.nfmovies.com/uploads/allimg/210712/0580ea5e64434282.jpg" group-title="电影精选",怪奇宅
@@ -465,54 +483,50 @@ https://api.xiongmiao888.cn/m3u8/1628248096979.m3u8
 https://4kyasvip-oss-alivideo.4kya.com/s/Vx0aKtB/%E8%93%9D%E5%85%89%E7%94%B5%E5%BD%B1/%E6%97%A5%E6%9C%AC%E7%94%B5%E5%BD%B1/%E5%93%86LA%E6%A2%A6%E4%BC%B4W%E5%90%8C%E8%A1%8C2.mp4
 #EXTINF:-1 tvg-logo="https://www.nfmovies.com/uploads/allimg/210730/cad95452748024db.jpg" group-title="电影精选",浪客剑心最终章追忆篇
 https://sf1-ttcdn-tos.pstatp.com/obj/tos-cn-v-0004/6fdaf4e7056a46f791fff18dd50f65a4?x-security-token=MTYyNzk3NjM4MTUwM2UyMmVmZDUzLTM4NjgtNDFiMC04NjcxLTU5Nzk5YjVjMzVmMzE2Mjc5NzYzODE1MDM2NDFmM2RkYy1mN2RjLTQwNWQtOTQyYi05NTMwNzEyMGI0MjY%3d&response-content-disposition=attachment%3Bfilename%2A%3Dutf-8%27%272ffdac8ffc20423d8c573c23c5d2492b.mp4&AccessKeyId=AKLTyz9w352bT_GJVfB-QVoo7A&Expires=1627976381503&Signature=22e655e30e394a49ae30f4eb64fc6fb9
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/rO1e30Yq7KzgZFAXZDosyAShhhM.jpg" group-title="明星专场",周星驰
-http://bd.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.m3u8?wsSecret=1a073cec4152a82953e78fceb25fbfc3&wsTime=611a6ab9&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Aq6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/w6fCmYDlTNYfgdXBZjZH107c9zJ.jpg" group-title="明星专场",吴彦祖
-http://hy.tushepy.com/pls/huya.php?id=11279251
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/1KMHW7ziw7cfpUxWNXdkAPIL410.jpg" group-title="明星专场",焦恩俊
-http://hy.tushepy.com/pls/huya.php?id=11336578
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/l0v7Fn5qPizk7Mt2WGNHiMF8hx5.jpg" group-title="明星专场",吴孟达
-http://hy.tushepy.com/pls/huya.php?id=11336592
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/uDPYSiZrW7OZ79qgcgkWefALlXY.jpg" group-title="明星专场",周润发
-http://hy.tushepy.com/pls/huya.php?id=11342387
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/7d4hgOzFW7CWPcE92eTSEFRSObC.jpg" group-title="明星专场",李连杰
-http://hy.tushepy.com/pls/huya.php?id=11342390
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/8gS55Yvd4XR9ntBGQiDN3vma712.jpg" group-title="明星专场",林正英
-http://hy.tushepy.com/pls/huya.php?id=11342421
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/hFFwVOTdXX5SHHDqP3UxmGzHO8p.jpg" group-title="明星专场",赵薇
-http://hy.tushepy.com/pls/huya.php?id=11342429
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/sI74unTQvKFYb92MaPcQ4lympry.jpg" group-title="明星专场",王宝强
-http://hy.tushepy.com/pls/huya.php?id=11342430
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/eoh2sI1IBYmQSuIapr32EUbl3Nw.jpg" group-title="明星专场",张学友
-http://hy.tushepy.com/pls/huya.php?id=11352878
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/6t6swea01pMXq281NAl2AgAzJMp.jpg" group-title="明星专场",徐峥
-http://hy.tushepy.com/pls/huya.php?id=11352894
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/9WTG1Feva6S7n09dxON40KHBsuk.jpg" group-title="明星专场",徐克
-http://hy.tushepy.com/pls/huya.php?id=11352909
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/hTlhrrZMj8hZVvD17j4KyAFWBHc.jpg" group-title="明星专场",甄子丹
-http://hy.tushepy.com/pls/huya.php?id=11352935
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/s0JXQhCmKUmtxiuI2rjH8hfE470.jpg" group-title="明星专场",葛优
-http://hy.tushepy.com/pls/huya.php?id=11601965
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/c2gBBUSd7JIfs20W76IutS4o3j4.jpg" group-title="明星专场",孙红雷
-http://hy.tushepy.com/pls/huya.php?id=11601970
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/l2B8oux6YbByxQkT20kzVXtMozn.jpg" group-title="明星专场",姜文
-http://hy.tushepy.com/pls/huya.php?id=11601981
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/yQuDBTzm7xWlJICNvl20OmcJP80.jpg" group-title="明星专场",古天乐
-http://hy.tushepy.com/pls/huya.php?id=11602041
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/f2wncdWkOxr9XsCYQWy9Ek1QdZY.jpg" group-title="明星专场",吴京
-http://hy.tushepy.com/pls/huya.php?id=11602045
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/nQbSQAws5BdakPEB5MtiqWVeaMV.jpg" group-title="明星专场",梁朝伟
-http://hy.tushepy.com/pls/huya.php?id=11602069
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/zOzz4woq7dfcll9AR1yGiQbjY4.jpg" group-title="明星专场",黄渤
-http://hy.tushepy.com/pls/huya.php?id=11602072
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/2QrJzdLyurDktrZzxcRQigTtT5i.jpg" group-title="明星专场",龙婆
-http://hy.tushepy.com/pls/huya.php?id=25276867
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg" group-title="明星专场",成龙
-http://tx.hls.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1-imgplus.m3u8?wsSecret=4ba81e20be572ce07e333830b2967d15&wsTime=611a6c0a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Ad2%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/nuxyCdWRUrKt31yGgo5w8637x3h.jpg" group-title="明星专场",刘德华
 http://tx.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8?wsSecret=d78f0cfc5d98b640d2a5a7bc1d8cfee7&wsTime=611a6b68&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acp1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/yQuDBTzm7xWlJICNvl20OmcJP80.jpg" group-title="明星专场",古天乐
+http://bd.hls.huya.com/src/1524434083-1524434083-6547394531392749568-3048991622-10057-A-0-1.m3u8?wsSecret=4f8eb0bc554071e1de216fcf9a9a5958&wsTime=611e1a2f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/f2wncdWkOxr9XsCYQWy9Ek1QdZY.jpg" group-title="明星专场",吴京
+http://bd.hls.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.m3u8?wsSecret=8042e2506d53b79009889a4a95294024&wsTime=611e1a47&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Ad2%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/l0v7Fn5qPizk7Mt2WGNHiMF8hx5.jpg" group-title="明星专场",吴孟达
+http://bd.hls.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.m3u8?wsSecret=02902d61e79641c3b5636e26f5295d4a&wsTime=611e1816&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/w6fCmYDlTNYfgdXBZjZH107c9zJ.jpg" group-title="明星专场",吴彦祖
+http://bd.hls.huya.com/huyalive/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.m3u8?wsSecret=b400f80a52202fa0d8f48c3a2421e2b6&wsTime=611e177e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acs7%3B&fs=bgct
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/rO1e30Yq7KzgZFAXZDosyAShhhM.jpg" group-title="明星专场",周星驰
+http://bd.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.m3u8?wsSecret=1a073cec4152a82953e78fceb25fbfc3&wsTime=611a6ab9&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Aq6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/uDPYSiZrW7OZ79qgcgkWefALlXY.jpg" group-title="明星专场",周润发
+http://bd.hls.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1-imgplus.m3u8?wsSecret=5736af36ba9c29d633f67a8b03a2cd90&wsTime=611e1827&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acs6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/c2gBBUSd7JIfs20W76IutS4o3j4.jpg" group-title="明星专场",孙红雷
+http://bd.hls.huya.com/src/1449539468-1449539468-6225724609321238528-3048959632-10057-A-0-1.m3u8?wsSecret=71679eeb6dfa26cb05f659a21fa7104c&wsTime=611e19b4&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Aq5%3B&fs=bgct
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/eoh2sI1IBYmQSuIapr32EUbl3Nw.jpg" group-title="明星专场",张学友
+http://al.hls.huya.com/src/1423782037-1423782037-6115097285547261952-2847687530-10057-A-0-1.m3u8?wsSecret=2888777a1f605b2ca3f9ba6d03baef0f&wsTime=611e18f4&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acp1%3B&fs=bgct
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/9WTG1Feva6S7n09dxON40KHBsuk.jpg" group-title="明星专场",徐克
+http://bd.hls.huya.com/huyalive/1423782080-1423782080-6115097470230855680-2847687616-10057-A-0-1.m3u8?wsSecret=fffee541758008fb9feb0fbddb5e254a&wsTime=611e1976&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Afz6%3B&fs=bgct
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/6t6swea01pMXq281NAl2AgAzJMp.jpg" group-title="明星专场",徐峥
+http://bd.hls.huya.com/src/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.m3u8?wsSecret=9b47109fc0dfc3c4bd61bfe45f2a33c5&wsTime=611e195d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Anc2%3B&fs=bgct
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg" group-title="明星专场",成龙
+http://tx.flv.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1-imgplus.flv?wsSecret=8a829a8b4bb9e23ea02497df9fb5d97b&wsTime=610fc9db&uid=0&seqid=16283382362018188&ctype=tars_mobile&ver=1&t=103
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/yvm10wHnOQaGl9a4X9KnDHaoJ8W.jpg" group-title="明星专场",李小龙
+http://bd.hls.huya.com/huyalive/1449588725-1449588725-6225936166525337600-3048959678-10057-A-0-1.m3u8?wsSecret=ed821304d90d641344832186ef0a7ede&wsTime=611e19e1&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Afz1%3B&fs=bgct
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/7d4hgOzFW7CWPcE92eTSEFRSObC.jpg" group-title="明星专场",李连杰
+http://al.hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.m3u8?wsSecret=28aabc57747c01e8476856964e2b6d39&wsTime=611e1842&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3An4%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/8gS55Yvd4XR9ntBGQiDN3vma712.jpg" group-title="明星专场",林正英
+http://tx.flv.huya.com/huyalive/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.flv?wsSecret=dc51b7292b2157159bf3a2e98397df03&wsTime=610fc9c7&uid=0&seqid=16283382344541640&ctype=tars_mobile&ver=1&t=103
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/nQbSQAws5BdakPEB5MtiqWVeaMV.jpg" group-title="明星专场",梁朝伟
+http://bd.hls.huya.com/src/1524439830-1524439830-6547419214569799680-3049003116-10057-A-0-1.m3u8?wsSecret=6d27ee45570ce3fa2b48911dbd42acd4&wsTime=611e1956&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/fV66FwEAm6E4KIV9XHRmTc5I363.jpg" group-title="明星专场",沈腾
 http://tx.hls.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1-imgplus.m3u8?wsSecret=cc935eee6eb4a28e1d972067e30e72fb&wsTime=611a6afd&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Ax3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/sI74unTQvKFYb92MaPcQ4lympry.jpg" group-title="明星专场",王宝强
+http://bd.hls.huya.com/src/1199573518691-1199573518691-5487435360524828672-2399147160838-10057-A-0-1.m3u8?wsSecret=b68744bd035ca788f99953f8ef8b1e57&wsTime=611e27ad&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Ad2%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/hTlhrrZMj8hZVvD17j4KyAFWBHc.jpg" group-title="明星专场",甄子丹
+http://bd.hls.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1-imgplus.m3u8?wsSecret=42e711d6a5aaab05d03d30dc21c956ae&wsTime=611e1993&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Ad3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/s0JXQhCmKUmtxiuI2rjH8hfE470.jpg" group-title="明星专场",葛优
+http://bd.hls.huya.com/src/28302995-28302995-121560437903851520-3048959616-10057-A-0-1.m3u8?wsSecret=076d965c4af00e50b43ba95998ab41dc&wsTime=611e199b&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/gNn875jcFFxQD9IX7LhpZeAPqtk.jpg" group-title="明星专场",谢霆锋
+http://tx.hls.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.m3u8?wsSecret=65a826a508c32b5898389f7c472e497c&wsTime=611e187d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Anc4%3B&fs=bgct
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/zOzz4woq7dfcll9AR1yGiQbjY4.jpg" group-title="明星专场",黄渤
+http://bd.hls.huya.com/src/1524439832-1524439832-6547419223159734272-3049003120-10057-A-0-1.m3u8?wsSecret=3642eee1d7d7617ebc4775caa3fac2a9&wsTime=611e1942&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Afz1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
 #EXTINF:-1 group-title="影视轮播",影视1
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226708/index.m3u8
 #EXTINF:-1 group-title="影视轮播",影视2
@@ -527,6 +541,20 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226736/index.m3u8
 http://cn-sdjn2-cu-live-01.bilivideo.com/live-bvc/501160/live_97065163_17925468_1500.m3u8
 #EXTINF:-1 tvg-logo="http://img.zwbk.org/baike/bpic/2010/12/13/20101213044907126_8002.jpg" group-title="影视轮播",邵氏电影 备用
 http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/wHlyDQyfBEeEqSxtAls7xokl0lj.jpg" group-title="影视轮播",五福星系列
+http://bd.hls.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.m3u8?wsSecret=b47b2c071eb4a477e3bda3970db3e2ec&wsTime=611e280a&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acp1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
+#EXTINF:-1 group-title="影视轮播",黑帮片
+http://tx.hls.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1-imgplus.m3u8?wsSecret=1ab566ddc90cbc00956f58052f08287d&wsTime=611e284e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Ahf3%3B&fs=bgct
+#EXTINF:-1 group-title="影视轮播",科幻片
+http://bd.hls.huya.com/src/1423782061-1423782061-6115097388626477056-2847687578-10057-A-0-1.m3u8?wsSecret=9b0fb98bb2ec68776af736253afb6c1f&wsTime=611e2876&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acp1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
+#EXTINF:-1 group-title="影视轮播",漫威宇宙
+http://al.hls.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.m3u8?wsSecret=7ae57d9e90182087bd7fd9ddbe12e720&wsTime=611e2912&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acp1%3B&fs=bgct
+#EXTINF:-1 group-title="影视轮播",恐怖电影
+http://bd.hls.huya.com/src/1394565211-1394565211-5989611973384339456-2789253878-10057-A-0-1.m3u8?wsSecret=a9f17d0ad31b05fc57dbbf21b73f44b4&wsTime=611e2995&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acp1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/dUE0RrK8AanffpYiypgljJtrf58.jpg" group-title="影视轮播",武林外传
+http://tx.hls.huya.com/src/1423782087-1423782087-6115097500295626752-2847687630-10057-A-0-1-imgplus.m3u8?wsSecret=0803669c3415d7dd717fe4aa7bdb08b7&wsTime=611e2b7f&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3An4%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+#EXTINF:-1 group-title="影视轮播",贺岁片
+http://bd.hls.huya.com/src/1524418076-1524418076-6547325781851242496-3048959608-10057-A-0-1.m3u8?wsSecret=26849046c885956b289486752b833f33&wsTime=611e2bec&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/chc-action-cn.png" group-title="影视频道",CHC动作电影
 http://60.255.49.202/live/gef.wqCHCdzdyH265_4000.m3u8
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/chc-hd-cn.png" group-title="影视频道",CHC高清电影
@@ -591,130 +619,6 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 http://223.110.241.137:6610/gitv/live1/G_JINGJU/G_JINGJU/.m3u8
 #EXTINF:-1 group-title="影视频道",芒果TV独播
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆01
-http://121.12.115.162/txdirect.hls.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆02
-http://121.12.115.162/txdirect.hls.huya.com/src/1199561276763-1199561276763-5434856680124841984-2399122676982-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆03
-http://121.12.115.162/txdirect.hls.huya.com/src/1199561219773-1199561219773-5434611909938642944-2399122563002-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆04
-http://121.12.115.162/txdirect.hls.huya.com/src/1199563459241-1199563459241-5444230351759081472-2399127041938-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆05
-http://121.12.115.162/txdirect.hls.huya.com/src/1199563478941-1199563478941-5444314962614812672-2399127081338-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆06
-http://121.12.115.162/txdirect.hls.huya.com/src/1199561223711-1199561223711-5434628823519854592-2399122570878-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆07
-http://121.12.115.162/txdirect.hls.huya.com/src/1199564000752-1199564000752-5446556123794505728-2399128124960-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆08
-http://121.12.115.162/txdirect.hls.huya.com/src/1199563995848-1199563995848-5446535061274886144-2399128115152-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆09
-http://121.12.115.162/txdirect.hls.huya.com/src/1199563493628-1199563493628-5444378042799489024-2399127110712-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆10
-http://121.12.115.162/txdirect.hls.huya.com/src/1199563478721-1199563478721-5444314017722007552-2399127080898-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆11
-http://121.12.115.162/txdirect.hls.huya.com/src/1199561463578-1199561463578-5435659044440244224-2399123050612-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆12
-http://121.12.115.162/txdirect.hls.huya.com/src/1199561245453-1199561245453-5434722204698804224-2399122614362-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆13
-http://121.12.115.162/txdirect.hls.huya.com/src/1199564003640-1199564003640-5446568527660056576-2399128130736-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆14
-http://121.12.115.162/txdirect.hls.huya.com/src/1199561153241-1199561153241-5434326157174505472-2399122429938-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆17
-http://121.12.115.162/txdirect.hls.huya.com/src/1199561179116-1199561179116-5434437289453289472-2399122481688-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆18
-http://121.12.115.162/txdirect.hls.huya.com/src/1199561185543-1199561185543-5434464893208100864-2399122494542-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆19
-http://121.12.115.162/txdirect.hls.huya.com/src/1199563478867-1199563478867-5444314644787232768-2399127081190-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆20
-http://121.12.115.162/txdirect.hls.huya.com/src/1199564060588-1199564060588-5446813117457629184-2399128244632-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆21
-http://121.12.115.162/txdirect.hls.huya.com/src/1199563481280-1199563481280-5444325008543318016-2399127086016-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆22
-http://121.12.115.162/txdirect.hls.huya.com/src/1199561185548-1199561185548-5434464914682937344-2399122494552-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆23
-http://121.12.115.162/txdirect.hls.huya.com/src/1199563492830-1199563492830-5444374615415586816-2399127109116-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆24
-http://121.12.115.162/txdirect.hls.huya.com/src/1199563484986-1199563484986-5444340925692116992-2399127093428-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆25
-http://121.12.115.162/txdirect.hls.huya.com/src/1199561217760-1199561217760-5434603264169476096-2399122558976-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆26
-http://121.12.115.162/txdirect.hls.huya.com/src/1199563486009-1199563486009-5444345319443660800-2399127095474-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆27
-http://121.12.115.162/txdirect.hls.huya.com/src/1199563491091-1199563491091-5444367146467459072-2399127105638-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆28
-http://121.12.115.162/txdirect.hls.huya.com/src/1199563478540-1199563478540-5444313240332926976-2399127080536-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆29
-http://121.12.115.162/txdirect.hls.huya.com/src/1199561235975-1199561235975-5434681496998772736-2399122595406-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆30
-http://121.12.115.162/txdirect.hls.huya.com/src/1199561240999-1199561240999-5434703074914467840-2399122605454-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆31
-http://121.12.115.162/txdirect.hls.huya.com/src/1199563461114-1199563461114-5444238396232826880-2399127045684-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆32
-http://121.12.115.162/txdirect.hls.huya.com/src/1199563489752-1199563489752-5444361395506249728-2399127102960-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆33
-http://121.12.115.162/txdirect.hls.huya.com/src/1199561181108-1199561181108-5434445845028143104-2399122485672-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆34
-http://121.12.115.162/txdirect.hls.huya.com/src/1199561277675-1199561277675-5434860597135015936-2399122678806-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆35
-http://121.12.115.162/txdirect.hls.huya.com/src/1199561176240-1199561176240-5434424937127346176-2399122475936-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆37
-http://121.12.115.162/txdirect.hls.huya.com/src/1199561277694-1199561277694-5434860678739394560-2399122678844-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆38
-http://121.12.115.162/txdirect.hls.huya.com/src/1199561179151-1199561179151-5434437439777144832-2399122481758-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆39
-http://121.12.115.162/txdirect.hls.huya.com/src/1199563483195-1199563483195-5444333233405689856-2399127089846-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆40
-http://121.12.115.162/txdirect.hls.huya.com/src/1199563452505-1199563452505-5444201420859375616-2399127028466-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆41
-http://121.12.115.162/txdirect.hls.huya.com/src/1199563479483-1199563479483-5444317290487087104-2399127082422-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆42
-http://121.12.115.162/txdirect.hls.huya.com/src/1199561278783-1199561278783-5434865355958779904-2399122681022-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆43
-http://121.12.115.162/txdirect.hls.huya.com/src/1199561277724-1199561277724-5434860807588413440-2399122678904-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆44
-http://121.12.115.162/txdirect.hls.huya.com/src/1199563491137-1199563491137-5444367344035954688-2399127105730-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆45
-http://121.12.115.162/txdirect.hls.huya.com/src/1199561277686-1199561277686-5434860644379656192-2399122678828-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆46
-http://121.12.115.162/txdirect.hls.huya.com/src/1199561223732-1199561223732-5434628913714167808-2399122570920-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆47
-http://121.12.115.162/txdirect.hls.huya.com/src/1199561391895-1199561391895-5435351168299565056-2399122907246-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆48
-http://121.12.115.162/txdirect.hls.huya.com/src/1199563489431-1199563489431-5444360016821747712-2399127102318-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆49
-http://121.12.115.162/txdirect.hls.huya.com/src/1199561277677-1199561277677-5434860605724950528-2399122678810-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆50
-http://121.12.115.162/txdirect.hls.huya.com/src/1199561240090-1199561240090-5434699170789195776-2399122603636-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆51
-http://121.12.115.162/txdirect.hls.huya.com/src/1199561178473-1199561178473-5434434527789318144-2399122480402-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆53
-http://121.12.115.162/txdirect.hls.huya.com/src/1199564067003-1199564067003-5446840669672833024-2399128257462-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆54
-http://121.12.115.162/txdirect.hls.huya.com/src/1199563551865-1199563551865-5444628168809906176-2399127227186-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆56
-http://121.12.115.162/txdirect.hls.huya.com/src/1199561152145-1199561152145-5434321449890349056-2399122427746-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆57
-http://121.12.115.162/txdirect.hls.huya.com/src/1199563452337-1199563452337-5444200699304869888-2399127028130-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆58
-http://121.12.115.162/txdirect.hls.huya.com/src/1199561176260-1199561176260-5434425023026692096-2399122475976-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆59
-http://121.12.115.162/txdirect.hls.huya.com/src/1199561462555-1199561462555-5435654650688700416-2399123048566-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆60
-http://121.12.115.162/txdirect.hls.huya.com/src/1199563479466-1199563479466-5444317217472643072-2399127082388-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆61
-http://121.12.115.162/txdirect.hls.huya.com/src/1199561153167-1199561153167-5434325839346925568-2399122429790-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆63
-http://121.12.115.162/txdirect.hls.huya.com/src/1199561182641-1199561182641-5434452429213007872-2399122488738-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆64
-http://121.12.115.162/txdirect.hls.huya.com/src/1199561177177-1199561177177-5434428961511702528-2399122477810-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆65
-http://121.12.115.162/txdirect.hls.huya.com/src/1199563564801-1199563564801-5444683728506847232-2399127253058-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆66
-http://121.12.115.162/txdirect.hls.huya.com/src/1199563488528-1199563488528-5444356138466279424-2399127100512-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆67
-http://121.12.115.162/txdirect.hls.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="埋堆堆",埋堆堆68
-http://121.12.115.162/txdirect.hls.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="斗鱼",仙剑奇侠传3_斗鱼
 http://dyscdnali1.douyucdn.cn/live/7270927reXZEug2P.flv?uuid=
 #EXTINF:-1 group-title="斗鱼",动漫1_斗鱼
@@ -1073,180 +977,6 @@ http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jingsepd/1300000/mnf.m3u8
 #EXTINF:-1 group-title="SiTV",SiTV魅力足球
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="iHOT",iHOT爱世界
-http://117.148.178.12/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230046/1.m3u8
-#EXTINF:-1 group-title="iHOT",iHOT爱世界
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230046/index.m3u8
-#EXTINF:-1 group-title="iHOT",iHOT爱体育
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230103/index.m3u8
-#EXTINF:-1 group-title="iHOT",iHOT爱体育
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
-#EXTINF:-1 group-title="iHOT",iHOT爱军武
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230083/index.m3u8
-#EXTINF:-1 group-title="iHOT",iHOT爱军武
-http://117.148.178.12/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230083/1.m3u8
-#EXTINF:-1 group-title="iHOT",iHot爱动漫
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230136/index.m3u8
-#EXTINF:-1 group-title="iHOT",iHOT爱历史
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/index.m3u8
-#EXTINF:-1 group-title="iHOT",iHot爱喜剧
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="iHOT",iHOT爱喜剧
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/01.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="iHOT",iHot爱奇谈
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230023/index.m3u8
-#EXTINF:-1 group-title="iHOT",iHOT爱奇谈
-http://117.148.178.12/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230023/1.m3u8
-#EXTINF:-1 group-title="iHOT",iHot爱娱乐
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230077/index.m3u8
-#EXTINF:-1 group-title="iHOT",iHot爱家庭
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230118/index.m3u8
-#EXTINF:-1 group-title="iHOT",iHOT爱家庭
-http://117.148.178.12/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230118/1.m3u8
-#EXTINF:-1 group-title="iHOT",iHot爱幼教
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230086/index.m3u8
-#EXTINF:-1 group-title="iHOT",iHOT爱怀旧
-http://117.148.178.12/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230049/1.m3u8
-#EXTINF:-1 group-title="iHOT",iHOT爱怀旧
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230049/index.m3u8
-#EXTINF:-1 group-title="iHOT",iHOT爱悬疑
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
-#EXTINF:-1 group-title="iHOT",iHOT爱悬疑
-http://117.148.178.12/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/1.m3u8
-#EXTINF:-1 group-title="iHOT",iHot爱探索
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
-#EXTINF:-1 group-title="iHOT",iHOT爱探索
-http://117.148.178.12/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/1.m3u8
-#EXTINF:-1 group-title="iHOT",iHOT爱旅行
-http://117.148.178.12/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/1.m3u8
-#EXTINF:-1 group-title="iHOT",iHOT爱旅行
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
-#EXTINF:-1 group-title="iHOT",iHot爱时尚
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230109/index.m3u8
-#EXTINF:-1 group-title="iHOT",iHOT爱江湖
-http://117.148.178.12/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230074/1.m3u8
-#EXTINF:-1 group-title="iHOT",iHOT爱江湖
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230074/index.m3u8
-#EXTINF:-1 group-title="iHOT",iHOT爱猎奇
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230097/index.m3u8
-#EXTINF:-1 group-title="iHOT",iHOT爱猎奇
-http://117.148.178.12/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230097/1.m3u8
-#EXTINF:-1 group-title="iHOT",iHot爱玩具
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230026/index.m3u8
-#EXTINF:-1 group-title="iHOT",iHot爱电竞
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230029/index.m3u8
-#EXTINF:-1 group-title="iHOT",iHOT爱科学
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
-#EXTINF:-1 group-title="iHOT",iHOT爱科学
-http://117.148.178.12/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/1.m3u8
-#EXTINF:-1 group-title="iHOT",iHOT爱科幻
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/01.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="iHOT",iHOT爱经典
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230101/index.m3u8
-#EXTINF:-1 group-title="iHOT",iHOT爱经典
-http://117.148.178.12/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230101/1.m3u8
-#EXTINF:-1 group-title="iHOT",iHOT爱美食
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230115/index.m3u8
-#EXTINF:-1 group-title="iHOT",iHOT爱美食
-http://117.148.178.12/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230115/1.m3u8
-#EXTINF:-1 group-title="iHOT",iHOT爱解密
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230080/index.m3u8
-#EXTINF:-1 group-title="iHOT",iHOT爱解密
-http://117.148.178.12/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230080/1.m3u8
-#EXTINF:-1 group-title="iHOT",iHOT爱谍战
-http://117.148.178.12/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/1.m3u8
-#EXTINF:-1 group-title="iHOT",iHOT爱谍战
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
-#EXTINF:-1 group-title="iHOT",iHot爱赛车
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
-#EXTINF:-1 group-title="iHOT",iHot爱都市
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230104/index.m3u8
-#EXTINF:-1 group-title="iHOT",iHot爱院线
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="iHOT",iHOT爱院线
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/01.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="港澳台",凤凰中文
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰中文
-http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰中文
-http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰中文
-http://zb.ios.ifeng.com:80/live/05QGDA0CIRK/index.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰中文
-http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰中文
-http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P
-#EXTINF:-1 group-title="港澳台",凤凰中文台
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰卫视
-http://117.169.120.138:8080/live/fhchinese/index.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰卫视
-http://117.169.120.138:8080/live/fhchinese/.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
-http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
-http://zb.ios.ifeng.com:80/live/05QGCOB3T34/index.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
-http://117.169.120.160:8080/live/fhzixun/1.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
-http://117.169.120.138:8080/live/fhzixun/index.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
-http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P
-#EXTINF:-1 group-title="港澳台",凤凰资讯
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
-http://117.169.120.138:8080/live/fhzixun/.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
-http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
-http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰香港
-http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰香港
-http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰香港
-http://223.82.250.72/live/fhhongkong/1.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰香港
-http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
-#EXTINF:-1 group-title="港澳台",凤凰香港
-http://223.110.245.137/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰香港
-http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=3804
-#EXTINF:-1 group-title="港澳台",凤凰香港
-http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰香港
-http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
-#EXTINF:-1 group-title="港澳台",双星
-http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",大爱2台
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 group-title="港澳台",大爱一台
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 group-title="港澳台",大爱海外
-https://pulltv3.wanfudaluye.com/live/tv3.m3u8
-#EXTINF:-1 group-title="港澳台",天映经典
-http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",天映频道
-http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",星空卫视
-http://218.202.220.2:5000/nn_live.ts?id=STARTV
-#EXTINF:-1 group-title="港澳台",星空卫视
-http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-#EXTINF:-1 group-title="港澳台",澳亚卫视
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=192&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 group-title="港澳台",澳视澳门
-http://61.244.22.4/ch1/ch1.live/index.m3u8
-#EXTINF:-1 group-title="港澳台",澳门卫视
-http://61.244.22.5/ch6/_definst_/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",翡翠台
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1&lv=1&c=0&s=4&v=100&wh=16:9&p=1翡翠台
-#EXTINF:-1 group-title="港澳台",耀才財經台
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
-#EXTINF:-1 group-title="港澳台",耀才财经
-http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pic.qingting.fm/2017/1213/20171213044254.jpeg" group-title="网络电台(无图像)",80后音悦台
 https://lhttp.qingting.fm/live/4915/64k.mp3
 #EXTINF:-1 tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191227/1577439531060.png" group-title="网络电台(无图像)",CRI Hit FM FM88.7
@@ -1309,3 +1039,403 @@ https://raw.githubusercontent.com/390517840/iptv/main/Telegram.mkv
 https://raw.githubusercontent.com/390517840/iptv/main/diyp.mkv
 #EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/Video/perfect_player.png" group-title="【关于直播】",perfect player教程
 https://raw.githubusercontent.com/390517840/iptv/main/perfect_player.mkv
+#EXTINF:-1 tvg-id="7201" tvg-name="爱尔达影剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_yingju.png" group-title="港澳台",ELTA-影剧台
+http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="7219" tvg-name="爱尔达综合" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_zonghehd.png" group-title="港澳台",ELTA-综合台
+http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="870" tvg-name="FOXActionMovies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="港澳台",FOX-动作
+http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="港澳台",HBO
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="港澳台",HBO-原创
+http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",TVB·翡翠台
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1&lv=1&c=0&s=4&v=100&wh=16:9&p=1
+#EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="港澳台",TVB星河频道
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="港澳台",TVN-亚洲
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV
+http://61.238.6.49:8000/bysid/99
+#EXTINF:-1 tvg-id="6169" tvg-name="亚洲美食频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/afc.png" group-title="港澳台",亚洲美食
+http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文台
+http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰卫视
+http://117.169.120.138:8080/live/fhchinese/index.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
+http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港
+http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港台
+https://d1rq1yf783ri9s.cloudfront.net/p2_cbr_lo_720p.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="港澳台",南方卫视上星
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="港澳台",历史二台
+https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="港澳台",历史频道
+https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="港澳台",国家地理
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="6142" tvg-name="大爱二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai2.png" group-title="港澳台",大爱2台
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 tvg-id="6027" tvg-name="大爱一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="港澳台",大爱一台
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 tvg-id="6142" tvg-name="大爱二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai2.png" group-title="港澳台",大爱二台
+https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 tvg-id="6027" tvg-name="大爱一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="港澳台",大爱海外
+https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",明珠台
+http://116.199.5.52:8114/00000000/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 tvg-id="476" tvg-name="澳亚卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/澳亚卫视.png" group-title="港澳台",澳亚卫视
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=192&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 tvg-id="7216" tvg-name="美食星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fooldplanet.png" group-title="港澳台",美食星球
+http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠华丽台
+http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1&lv=1&c=0&s=4&v=100&wh=16:9&p=1翡翠台
+#EXTINF:-1 tvg-id="144" tvg-name="阳光卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yangguangweishi.png" group-title="港澳台",阳光卫视
+https://stream.chinasuntv.com/680k/mid_video_index.m3u8
+#EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港澳台",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-chno="1000" tvg-id="USBA3000042O6" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/50/USBA3000042O6_20210525T051452.png" group-title="Reality",Kitchen Nightmares
+https://d12hafsmzbqmzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/KitchenNightmare2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1235" tvg-id="USAJ3000006X5" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/65/USAJ3000006X5_20210609T003440.png" group-title="Reality",Lively Place
+https://7692a37649e54bef83adeea10f21aef0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_LivelyPlace/playlist.m3u8?ads.wurl_channel=285&ads.wurl_name=LivelyPlace&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1236" tvg-id="USAK3508706A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/10/USAK3508706A_20210609T003445.png" group-title="Reality",Skills + Thrills
+https://f2886f2b044a4d2d91d501260e0ba14c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SkillsAndThrills/playlist.m3u8?ads.wurl_channel=590&ads.wurl_name=SkillsAndThrills&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1238" tvg-id="USAJ340001380" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/02/USAJ340001380_20210525T051706.png" group-title="Reality",All Weddings WE tv
+https://301e8447395c4f99835aec6b98ed9acd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_AllWeddingsbyWEtv/playlist.m3u8?ads.wurl_channel=695&ads.wurl_name=AllWeddingsbyWEtv&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1239" tvg-id="USAJ2200011TR" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/80/USAJ2200011TR_20210525T051708.png" group-title="Reality",All Reality WE tv
+https://4da04a4f31844ed2a2b1a4dceaf60e86.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_AbsoluteReality/playlist.m3u8?ads.wurl_channel=475&ads.wurl_name=AbsoluteReality&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1245" tvg-id="USBA3000093U" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/38/USBA3000093U_20210525T051604.png" group-title="Reality",MTV Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-chno="1246" tvg-id="USBA300020WC" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/54/USBA300020WC_20210525T051607.png" group-title="Reality",Love & Hip Hop
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d51ddf0369acdb278dfb05e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-chno="1248" tvg-id="USBA300004TE" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/15/USBA300004TE_20210525T051609.png" group-title="Reality",Dallas Cowboys Cheer
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-chno="1001" tvg-id="USAJ30000100K" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/20/USAJ30000100K_20210428T104242.png" group-title="Entertainment",The Walking Dead Universe
+https://645c5b3f342a4329a847a557fbe77b05.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TWDUniverseTV14/playlist.m3u8?ads.wurl_channel=844&ads.wurl_name=TWDUniverseTV14&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1052" tvg-id="USAJ3400010RS" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/97/USAJ3400010RS_20210428T040253.png" group-title="Entertainment",Stories by AMC
+https://fe0423aba9c44b9e92576576e4d3189a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_AMCPresentsClean/playlist.m3u8?ads.wurl_channel=663&ads.wurl_name=AMCPresentsClean&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1054" tvg-id="USBA300019WF" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/43/USBA300019WF_20201208T081541.png" group-title="Entertainment",TV Land Sitcoms
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-chno="1060" tvg-id="USAJ26000015Y" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/07/USAJ26000015Y_20201007T012253.png" group-title="Entertainment",Drama Life
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f24662bebe0f0000767de32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-chno="1062" tvg-id="USAJ2200014K9" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/68/USAJ2200014K9_20201208T081550.png" group-title="Entertainment",ION Plus
+https://ea2f4b54cd2d457290e6c34468dffb10.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_IonPlus/playlist.m3u8?ads.wurl_channel=378&ads.wurl_name=IonPlus&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1063" tvg-id="USBA2000001BR" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/96/USBA2000001BR_20210525T051449.png" group-title="Entertainment",Baywatch
+https://d3vdwtqqboxhm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/BayWatch2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1064" tvg-id="USBB60000208" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/44/USBB60000208_20210525T051508.png" group-title="Entertainment",Nashville Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-lgpopup-samsung-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1067" tvg-id="USAJ3400016XC" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/52/USAJ3400016XC_20210323T125502.png" group-title="Entertainment",Degrassi
+https://ba2f915d57b64d17ba95f092b16b8d58.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Degrassi/playlist.m3u8?ads.wurl_channel=715&ads.wurl_name=Degrassi&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1068" tvg-id="USBA3000044BJ" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/87/USBA3000044BJ_20210525T051454.png" group-title="Entertainment",Lucky Dog
+https://d2eb12ehm31yjp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LuckyDog2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1069" tvg-id="USBA300029RP" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/53/USBA300029RP_20210525T051509.png" group-title="Entertainment",The Bob Ross Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/xumo-host-samsung-bobross/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1070" tvg-id="USBA3800005NI" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/10/USBA3800005NI_20210323T125532.png" group-title="Entertainment",Clarity 4K
+https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClarityTV4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1072" tvg-id="USAJ3504708A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/45/USAJ3504708A_20200910T024247.png" group-title="Entertainment",Danger TV
+https://5341c1d388b14862b8068a90cc80e062.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_DangerTV/playlist.m3u8?ads.wurl_channel=161&ads.wurl_name=DangerTV&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1073" tvg-id="USAJ340000677" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/96/USAJ340000677_20210126T072617.png" group-title="Entertainment",Magellan TV Now
+https://6ad725dc59bb4e5c99db85fb2607a3f7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_MagellanTV/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=304&ads.wurl_name=MagellanTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1078" tvg-id="USAJ34000022E" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/34/USAJ34000022E20200730102745.png" group-title="Entertainment",Nosey
+https://462bd08912cf434db68a3d3d74e0228c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Nosey/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=319&ads.wurl_name=Nosey&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1080" tvg-id="USAJ4000008FX" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/34/USAJ4000008FX20200730102745.png" group-title="Entertainment",Reelz
+https://dai2-ipv4.xumo.com/amagi_hls_data_xumo1212A-samsungtvplus-reelzchannel/CDN/playlist.m3u8?p=samsung&device_id=%7BPSID%7D&is_lat=%7BTARGETOPT%7D&us_privacy=1YNY&coppa=0&app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1082" tvg-id="USBA300035FV" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/24/USBA300035FV_20210622T090625.png" group-title="Entertainment",Circle
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-circle-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1085" tvg-id="USBB600001QD" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/46/USBB600001QD_20210413T065437.png" group-title="Entertainment",Fuse Backstage
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/fuseaaaaa-fuse-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1086" tvg-id="USBB1900006NY" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/13/USBB1900006NY_20210622T090615.png" group-title="Entertainment",VICE
+https://d2do1g43aq7264.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Vice-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1088" tvg-id="USAJ4000002ZS" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/33/USAJ4000002ZS_20210525T051720.png" group-title="Entertainment",Complex
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvplus-complex/CDN/playlist.m3u8?p=samsung&device_id=%7BPSID%7D&is_lat=%7BTARGETOPT%7D&us_privacy=1YNY&coppa=0&app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1089" tvg-id="USBA3800003VP" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/71/USBA3800003VP_20210525T051455.png" group-title="Entertainment",Revry
+https://d36jpyyja698yd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Revry2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1090" tvg-id="USAK3508715A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/36/USAK3508715A20200730102745.png" group-title="Entertainment",Shout! Factory
+https://abc40a2eb55c46528622e9a9f01d8751.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ShoutFactory/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=95&ads.wurl_name=ShoutFactory&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1091" tvg-id="USAJ4300010Y0" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/32/USAJ4300010Y020200730102745.png" group-title="Entertainment",Dove Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/cinedigm-samsung-dovenowxumo/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1093" tvg-id="USAJ1700005SF" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/85/USAJ1700005SF20200730102745.png" group-title="Entertainment",FilmRise Classic TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvplusfilmriseclassictv/CDN/playlist.m3u8?p=samsung&device_id=%7BPSID%7D&is_lat=%7BTARGETOPT%7D&us_privacy=1YNY&coppa=0&app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1096" tvg-id="USAJ22000130U" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/00/USAJ22000130U_20200819T020336.png" group-title="Entertainment",MHz Now
+https://f8f59665a66d47ab9f9e8c2b7e6881e1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_MHz/playlist.m3u8?ads.wurl_channel=278&ads.wurl_name=MHz&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1101" tvg-id="USAJ2200021NW" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/44/USAJ2200021NW20200730102745.png" group-title="Entertainment",Brat TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-bratus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
+#EXTINF:-1 tvg-chno="1103" tvg-id="USBA3700002JF" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/08/USBA3700002JF_20200915T081305.png" group-title="Entertainment",ET Live
+https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8?imafw_csid=vcbs_samsung_mobile_allos_live;imafw__fw_h_referer=com.samsung.android.tvplus&imafw_description_url=https%3A%2F%2Fwww.etonline.com/live&imafw__fw_did=tifa:%7BPSID%7D&imafw__fw_is_lat=%7BTARGETOPT%7D&imafw__fw_vcid2=%7BPSID%7D&imafw__fw_app_bundle=com.samsung.android.tvplus&imafw__fw_us_privacy=1YNY&imafw_is_lat=%7BTARGETOPT%7D
+#EXTINF:-1 tvg-chno="1104" tvg-id="USBA300032J7" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/90/USBA300032J7_20200819T020252.png" group-title="Entertainment",FOX SOUL
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-soul-samsung/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1105" tvg-id="USAJ2200022RM" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/46/USAJ2200022RM20200730102745.png" group-title="Entertainment",People TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-peopletv-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1107" tvg-id="USAK3508719A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/39/USAK3508719A_20201007T012307.png" group-title="Entertainment",Hollywire
+https://65ffe583074441adbfb111714c7b4e8b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Hollywire/playlist.m3u8?ads.wurl_channel=208&ads.wurl_name=Hollywire&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1002" tvg-id="USAJ3504712A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/75/USAJ3504712A_20210525T051620.png" group-title="Game Shows",Deal or No Deal
+https://ed171e536a1c40559db9cbd2ea300bd8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_DealOrNoDeal/playlist.m3u8?ads.wurl_channel=468&ads.wurl_name=DealOrNoDeal&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1139" tvg-id="USBA300030Q8" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/74/USBA300030Q8_20210609T003452.png" group-title="Game Shows",BUZZR
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-buzzr-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1141" tvg-id="USAJ3400012FA" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/49/USAJ3400012FA_20210525T051618.png" group-title="Game Shows",Game Show Central
+https://855649d1dca1413dad89e627e1727d97.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_GameShowCentral/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=416&ads.wurl_name=GameShowCentral&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1145" tvg-id="USAK3508728A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/66/USAK3508728A_20210525T051622.png" group-title="Game Shows",Wipeout Xtra
+https://c2b5dda37eac42d18c8250cd9fec7d70.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_WipeoutXtra/playlist.m3u8?ads.wurl_channel=320&ads.wurl_name=WipeoutXtra&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1147" tvg-id="USBA3000100X" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/65/USBA3000100X_20210525T051559.png" group-title="Game Shows",Wild 'N Out
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d48678d34ceb37d3c458a55/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-chno="1003" tvg-id="USBA3800002KI" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/22/USBA3800002KI_20210525T051727.png" group-title="Food, Home & Travel",America's Test Kitchen
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvplusamericastestkitchen/CDN/playlist.m3u8?p=samsung&device_id=%7BPSID%7D&is_lat=%7BTARGETOPT%7D&us_privacy=1YNY&coppa=0&app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1004" tvg-id="USBB1000002TK" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/96/USBB1000002TK_20210525T051501.png" group-title="Food, Home & Travel",Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1201" tvg-id="USAK3508707A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/02/USAK3508707A_20210525T051649.png" group-title="Food, Home & Travel",Tastemade
+https://7f1c2efacfa94aa58e0edbbaabb19448.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Tastemade/playlist.m3u8?ads.wurl_channel=223&ads.wurl_name=Tastemade&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1202" tvg-id="USAJ1700008H6" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/58/USAJ1700008H6_20210525T051543.png" group-title="Food, Home & Travel",Bon Appétit
+https://bonappetit-samsung.amagi.tv/hls/amagi_hls_data_condenast-bonappetitsamsung/CDN/playlist.m3u8?device[did]=%7BPSID%7D&device[dnt]=%7BTARGETOPT%7D&us_privacy=1YNY&app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1203" tvg-id="USAK3508724A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/52/USAK3508724A_20210525T051651.png" group-title="Food, Home & Travel",Gusto TV
+https://9e02865ea2934243bfca5b6d7f74aa01.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_GustoTV/playlist.m3u8?ads.wurl_channel=227&ads.wurl_name=GustoTV&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1206" tvg-id="USAJ2200009C2" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/20/USAJ2200009C2_20210525T051654.png" group-title="Food, Home & Travel",Hungry
+https://9bfce4d7d1834266b2953afe3deb1e8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Hungry/playlist.m3u8?ads.wurl_channel=140&ads.wurl_name=Hungry&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1208" tvg-id="USBB1000003HL" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/04/USBB1000003HL_20210525T051451.png" group-title="Food, Home & Travel",Journy
+https://d3lzjtrf5mvf3p.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Journy-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1211" tvg-id="USAJ3400020KC" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/53/USAJ3400020KC_20210525T051656.png" group-title="Food, Home & Travel",Tiny House Nation
+https://4f2d358e390a41cd8e87e74a954d9624.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TinyHouseNation/playlist.m3u8?ads.wurl_channel=675&ads.wurl_name=TinyHouseNation&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1213" tvg-id="USAK3508701A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/03/USAK3508701A_20210525T051658.png" group-title="Food, Home & Travel",This Old House
+https://26487f8be0614420a64b6f5964563a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ThisOldHouse/playlist.m3u8?ads.wurl_channel=180&ads.wurl_name=ThisOldHouse&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1215" tvg-id="USAJ3400005BA" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/96/USAJ3400005BA_20210525T051700.png" group-title="Food, Home & Travel",The Design Network
+https://e60c9a5d763348c6a86c6d98fce3c52a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TheDesignNetwork/playlist.m3u8?ads.wurl_channel=295&ads.wurl_name=TheDesignNetwork&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1223" tvg-id="USAK3508723A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/18/USAK3508723A_20210525T051702.png" group-title="Food, Home & Travel",QVC
+https://qvc.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-chno="1224" tvg-id="USAJ3504700A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/36/USAJ3504700A_20210525T051704.png" group-title="Food, Home & Travel",HSN
+https://hsn.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-chno="1005" tvg-id="USBA370000104" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/67/USBA370000104_20200915T081312.png" group-title="News & Opinion",CBS News
+https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8?imafw_csid=vcbs_samsung_mobile_allos_live;imafw__fw_h_referer=com.samsung.android.tvplus&imafw_description_url=https%3A%2F%2Fwww.cbsnews.com/live&imafw__fw_did=tifa:%7BPSID%7D&imafw__fw_is_lat=%7BTARGETOPT%7D&imafw__fw_vcid2=%7BPSID%7D&imafw__fw_app_bundle=com.samsung.android.tvplus&imafw__fw_us_privacy=1YNY&imafw_is_lat=%7BTARGETOPT%7D
+#EXTINF:-1 tvg-chno="1006" tvg-id="USBA300024TN" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/97/USBA300024TN20200730102745.png" group-title="News & Opinion",NewsNOW from FOX
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1007" tvg-id="USAJ17000049P" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/28/USAJ17000049P_20201028T004935.png" group-title="News & Opinion",ABC News Live
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvplusabcnews/CDN/playlist.m3u8?p=samsung&device_id=%7BPSID%7D&is_lat=%7BTARGETOPT%7D&us_privacy=1YNY&coppa=0&app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1015" tvg-id="USAJ3400011A8" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/24/USAJ3400011A820200730102745.png" group-title="News & Opinion",Bloomberg TV+ UHD
+https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Bloomberg/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=389&ads.wurl_name=Bloomberg&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1016" tvg-id="USAJ3504714A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/95/USAJ3504714A_20210413T065435.png" group-title="News & Opinion",Cheddar News
+https://bcf66772c67a40ec839611926b59b041.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Cheddar/playlist.m3u8?ads.wurl_channel=575&ads.wurl_name=Cheddar&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1017" tvg-id="USAJ4300005PJ" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/35/USAJ4300005PJ20200730102745.png" group-title="News & Opinion",Yahoo Finance
+https://yahoo-samsung.amagi.tv/hls/amagi_hls_data_yahoofina-samsungyahoofinance/CDN/playlist.m3u8?device[did]=%7BPSID%7D&device[dnt]=%7BTARGETOPT%7D&us_privacy=1YNY&app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1020" tvg-id="USAJ3400018M0" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/69/USAJ3400018M0_20210622T090619.png" group-title="News & Opinion",Newsy
+https://1775a4feddb54d49b6e03fa9254b613a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Newsy-1/playlist.m3u8?ads.wurl_channel=570&ads.wurl_name=Newsy&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1021" tvg-id="USAJ30000041W" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/91/USAJ30000041W_20201208T081555.png" group-title="News & Opinion",Bloomberg Quicktake
+https://46fdaf6b6c654641a17df270a2ac8443.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_QuickTake/playlist.m3u8?ads.wurl_channel=646&ads.wurl_name=QuickTake&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1023" tvg-id="USBB1500001GD" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/40/USBB1500001GD_20210622T090612.png" group-title="News & Opinion",USA Today
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/usatoday-usatodaynews-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1024" tvg-id="USBA340000107" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/66/USBA340000107_20210512T004108.png" group-title="News & Opinion",BNC GO
+https://didoc69s3kqdd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/BlackNewsChannel2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1027" tvg-id="USBA300028QU" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/90/USBA300028QU_20210622T090622.png" group-title="News & Opinion",Newsmax TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-newsmax/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1029" tvg-id="USBB1900002KF" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/35/USBB1900002KF_20210525T051433.png" group-title="News & Opinion",Real America's Voice
+https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1032" tvg-id="USBA30002142" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/03/USBA3000214220200730102745.png" group-title="News & Opinion",TYT Network
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-tyt-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1033" tvg-id="USAK3508713A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/39/USAK3508713A20200730102745.png" group-title="News & Opinion",WeatherNation
+https://7e95b2943687467d81717c5571c66715.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_WeatherNationTV/playlist.m3u8?ads.wurl_channel=347&ads.wurl_name=WeatherNationTV&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1126" tvg-id="USAK3508703A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/94/USAK3508703A_20210609T003434.png" group-title="Crime",Crime 360
+https://dab88d35ef5b44ec99be60adef855bf2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Crime360/playlist.m3u8?ads.wurl_channel=393&ads.wurl_name=Crime360&ads.psid=%7BPSID%7D&ads.us_privacy=1YNY&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1132" tvg-id="USAK3508710A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/43/USAK3508710A_20210525T051616.png" group-title="Crime",Law & Crime
+https://4e8223185173454299fbf03581b6dd7b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_LawAndCrime/playlist.m3u8?ads.wurl_channel=226&ads.wurl_name=LawandCrime&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1133" tvg-id="USBA34000049Z" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/39/USBA34000049Z_20210525T051457.png" group-title="Crime",Court TV
+https://d11ns1fzxv6gfs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CourtTV-prod/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1134" tvg-id="USAJ40000014Z" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/36/USAJ40000014Z_20210525T051722.png" group-title="Crime",FilmRise True Crime
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvplusfilmrisetruecrime/CDN/playlist.m3u8?p=samsung&device_id=%7BPSID%7D&is_lat=%7BTARGETOPT%7D&us_privacy=1YNY&coppa=0&app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1136" tvg-id="USAJ3504547A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/07/USAJ3504547A_20210525T051557.png" group-title="Crime",The New Detectives
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5aea40b35126c2157123aa64/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-chno="1157" tvg-id="USAJ4300001Q7" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/11/USAJ4300001Q7_20210525T051527.png" group-title="Sports",beIN SPORTS XTRA
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-bein-xtra-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1158" tvg-id="USAJ2200023Z0" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/78/USAJ2200023Z0_20210525T051529.png" group-title="Sports",fubo Sports Network
+https://sportsnet-midas.fubo.tv/v1/master/6c9193257c0eed8ca3f1eabccc4444f9477500f1/SportsNet/samsung/master.m3u8?ads.partner=samsung&ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1159" tvg-id="USAJ3504705A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/22/USAJ3504705A_20210525T051625.png" group-title="Sports",Stadium
+https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8?ads.wurl_channel=160&ads.wurl_name=Stadium&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1160" tvg-id="USBA300031OT" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/11/USBA300031OT_20210525T051532.png" group-title="Sports",SportsGrid
+https://sportsgrid-samsungus.amagi.tv/hls/amagi_hls_data_sportsgri-sportsgrid-samsung-us/CDN/playlist.m3u8?device[did]=%7BPSID%7D&device[dnt]=%7BTARGETOPT%7D&us_privacy=1YNY&app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1161" tvg-id="USBA300034DB" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/43/USBA300034DB_20210525T051534.png" group-title="Sports",Pac-12 Insider
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-pac12-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1162" tvg-id="USAK3508702A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/47/USAK3508702A_20210525T051627.png" group-title="Sports",ACC Digital Network
+https://1a8f69077b904368aedb538ed5045ac1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ACCDigitalNetwork/playlist.m3u8?ads.wurl_channel=599&ads.wurl_name=ACCDigitalNetwork&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1164" tvg-id="USBB1000001XP" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/01/USBB1000001XP_20210525T051458.png" group-title="Sports",IMPACT Wrestling
+https://d3mwqwqfak7y2q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ImpactWrestling-prod/hls/main.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1166" tvg-id="USBA3000380A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/73/USBA3000380A_20210525T051536.png" group-title="Sports",PlayersTV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-playerstv-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1167" tvg-id="USAJ3504716A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/17/USAJ3504716A_20210525T051628.png" group-title="Sports",FTF
+https://9fb55cfc0a1e430fb1e209c3b50576b6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_FTFNextUS/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=246&ads.wurl_name=ForTheFans&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1169" tvg-id="USBA300039YG" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/51/USBA300039YG_20210525T051538.png" group-title="Sports",EDGEsport
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-edgesportusa-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1173" tvg-id="USBB10000058A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/79/USBB10000058A_20210525T094606.png" group-title="Sports",SURF NOW TV
+https://dgwfm675921lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/SurfNowTv-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1176" tvg-id="USBA300022JX" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/42/USBA300022JX_20210525T051540.png" group-title="Sports",Insight TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-insighttv/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1178" tvg-id="USAJ3504707A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/55/USAJ3504707A_20210525T051630.png" group-title="Sports",Outside TV+
+https://c185ba78559f47b79f8079be89884d03.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_OutsideTV/playlist.m3u8?ads.wurl_channel=143&ads.wurl_name=OutsideTV&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1179" tvg-id="USAK3508711A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/13/USAK3508711A_20210525T051633.png" group-title="Sports",FUEL TV
+https://8f53b9a4334b4ef38d52270ecc7636ec.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_FuelTV/playlist.m3u8?ads.wurl_channel=568&ads.wurl_name=FuelTV&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1180" tvg-id="USBA5000001XM" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/76/USBA5000001XM_20210525T051542.png" group-title="Sports",Whistle TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/whistletv-whistletv-samsung-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1181" tvg-id="USAJ3400015BY" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/36/USAJ3400015BY_20210525T051634.png" group-title="Sports",People Are Awesome
+https://ab8957f603f74b00bb0517913c452ea5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_PeopleAreAwesome/playlist.m3u8?ads.wurl_channel=385&ads.wurl_name=PeopleAreAwesome&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1182" tvg-id="USAK3508729A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/27/USAK3508729A_20210525T051635.png" group-title="Sports",Outdoor America
+https://abe7c843f2064704adfd0920c95b127b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ObsessionMedia/playlist.m3u8?ads.wurl_channel=166&ads.wurl_name=ObsessionMedia&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1184" tvg-id="USAK3508718A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/55/USAK3508718A_20210525T051638.png" group-title="Sports",Waypoint TV
+https://e7666845351445288d09adb21bf2765b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_WaypointTV/playlist.m3u8?ads.wurl_channel=231&ads.wurl_name=WaypointTV&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1185" tvg-id="USAJ2200012RN" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/57/USAJ2200012RN_20210525T051639.png" group-title="Sports",Pursuit UP
+https://1c1adf8d91e94b7d836ac263d6f0f35f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_PursuitUp/playlist.m3u8?ads.wurl_channel=243&ads.wurl_name=PursuitUp&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1187" tvg-id="USAJ3504718A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/91/USAJ3504718A_20210525T051642.png" group-title="Sports",World Poker Tour
+https://ee3edce685bc44a9a2cf75ecadd39bbc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_WorldPokerTour/playlist.m3u8?ads.wurl_channel=174&ads.wurl_name=WorldPokerTour&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1190" tvg-id="USAJ34000090D" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/80/USAJ34000090D_20210525T051644.png" group-title="Sports",MAVTV Select
+https://5e40ddae915641febc61168f0f1d612a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_MavTV/playlist.m3u8?ads.wurl_channel=303&ads.wurl_name=MavTV&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1191" tvg-id="USAJ3504717A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/20/USAJ3504717A_20210525T051646.png" group-title="Sports",PowerNation
+https://d756a78688054e35ae814dd9c1e899f0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_RTMTVChannel/playlist.m3u8?ads.wurl_channel=177&ads.wurl_name=RTMTVChannel&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1194" tvg-id="USAJ4000004ZT" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/60/USAJ4000004ZT_20210525T051725.png" group-title="Sports",MOTORVISION.TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvplus-motorvision/CDN/playlist.m3u8?p=samsung&device_id=%7BPSID%7D&is_lat=%7BTARGETOPT%7D&us_privacy=1YNY&coppa=0&app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1195" tvg-id="USAJ3504545A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/99/USAJ3504545A_20210525T051600.png" group-title="Sports",Cars
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c12ba66eae03059cbdc77f2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-chno="1255" tvg-id="USBA300040WR" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/42/USBA300040WR_20201007T012224.png" group-title="Latino",Estrella TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellatv-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1256" tvg-id="USAJ2200020N4" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/62/USAJ2200020N4_20201208T081615.png" group-title="Latino",Estrella News
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellanews-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1259" tvg-id="USAJ3504719A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/49/USAJ3504719A_20201007T010339.png" group-title="Latino",Sony Canal Competencias
+https://db71bbef43434d4e9ff9d4a9b8f55bf0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalCompetencias-1/playlist.m3u8?ads.wurl_channel=692&ads.wurl_name=SonyCanalCompetencias&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1260" tvg-id="USAJ22000057N" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/72/USAJ22000057N_20201007T012227.png" group-title="Latino",Sony Canal Comedias
+https://62d4f4f024504aeb8d60e3692175780b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalComedias-1/playlist.m3u8?ads.wurl_channel=693&ads.wurl_name=SonyCanalComedias&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1261" tvg-id="USAJ3000002OC" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/43/USAJ3000002OC_20201007T012234.png" group-title="Latino",Sony Canal Novelas
+https://1d523b230b48436fa13d0bfa26aa9fb1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_SonyCanalNovelas-1/playlist.m3u8?ads.wurl_channel=694&ads.wurl_name=SonyCanalNovelas-1&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1266" tvg-id="USBA300003UJ" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/50/USBA300003UJ_20201117T081922.png" group-title="Latino",Novelas Drama
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-chno="1267" tvg-id="USBA300012VB" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/27/USBA300012VB_20201117T081925.png" group-title="Latino",Novelas Romance
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84db2db3851800077c871e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-chno="1268" tvg-id="USBA3000025R" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/26/USBA3000025R_20201117T081929.png" group-title="Latino",Spike Adventura
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-chno="1270" tvg-id="USAJ1700009QJ" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/27/USAJ1700009QJ_20210428T040243.png" group-title="Latino",Tu Cine
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_samsungus-tu-cine-us-samsungus/CDN/playlist.m3u8?device[did]=%7BPSID%7D&device[dnt]=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:-1 tvg-chno="1272" tvg-id="USAK3508704A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/25/USAK3508704A_20210224T013301.png" group-title="Latino",Canela.TV
+https://1757bd85f4304a01a89e5b299efa5994.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_CanelaTV/playlist.m3u8?ads.wurl_channel=652&ads.wurl_name=CanelaTV&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1278" tvg-id="USAJ1700010HG" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/80/USAJ1700010HG_20201028T005023.png" group-title="Latino",Tastemade en Español
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-es16us-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1283" tvg-id="USBA3800001E0" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/71/USBA3800001E0_20201007T012244.png" group-title="Latino",Cine Romantico
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvpluscineromanticouptv/CDN/playlist.m3u8?p=samsung&device_id=%7BPSID%7D&is_lat=%7BTARGETOPT%7D&us_privacy=1YNY&coppa=0&app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1293" tvg-id="USAJ2200008NR" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/35/USAJ2200008NR20200730102745.png" group-title="International",Asian Crush
+https://479cc5aa923d4f399f440d76bc53da92.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_AsianCrush/playlist.m3u8?ads.wurl_channel=269&ads.wurl_name=AsianCrush&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1295" tvg-id="USAJ30000122O" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/05/USAJ30000122O_20210413T065443.png" group-title="International",NEW K.MOVIES
+https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1296" tvg-id="USAJ3000013FJ" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/40/USAJ3000013FJ_20210413T065445.png" group-title="International",NEW K.ID
+https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8?ads.wurl_channel=617&ads.wurl_name=NewKID&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1329" tvg-id="USAJ3504704A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/06/USAJ3504704A_20210323T125648.png" group-title="Comedy",The Pet Collective
+https://fe07c0dd11534a65815a0082414c41c3.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ThePetCollective/playlist.m3u8?ads.wurl_channel=136&ads.wurl_name=ThePetCollective&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1330" tvg-id="USAJ3504702A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/46/USAJ3504702A_20210323T125652.png" group-title="Comedy",FailArmy
+https://2383afee096b4dc499922dcf79ba9cfa.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_FailArmy/playlist.m3u8?ads.wurl_channel=89&ads.wurl_name=FailArmy&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1331" tvg-id="USAJ1700002HO" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/77/USAJ1700002HO_20201117T081932.png" group-title="Comedy",CHIVE TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvpluschivetv/CDN/playlist.m3u8?p=samsung&device_id=%7BPSID%7D&is_lat=%7BTARGETOPT%7D&us_privacy=1YNY&coppa=0&app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1332" tvg-id="USBA1600001XM" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/05/USBA1600001XM20200730102745.png" group-title="Comedy",The AFV Family Channel
+https://d2hnz12weo628w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AFV2-prod/samsung.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1334" tvg-id="USAJ30000039U" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/79/USAJ30000039U20200730102745.png" group-title="Comedy",Dry Bar Comedy
+https://ed26e7d0159f4266a552c44f68472edc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_DryBarComedy/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=370&ads.wurl_name=DryBarComedy&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1338" tvg-id="USAJ4300004PC" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/75/USAJ4300004PC20200730102745.png" group-title="Comedy",Comedy Dynamics
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/cinedigm-samsung-comedy-dynamics-clean/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1339" tvg-id="USAJ3504706A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/65/USAJ3504706A20200730102745.png" group-title="Comedy",RiffTrax
+https://5534f4bba48d427a9cb347656144a438.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Rifftrax/playlist.m3u8?ads.wurl_channel=142&ads.wurl_name=Rifftrax&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1350" tvg-id="USBA3000045DF" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/38/USBA3000045DF_20210525T051502.png" group-title="Gaming",GAMR 365
+https://d10ux3u9s5gh2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Gamer3652-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1351" tvg-id="USBA30003672" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/26/USBA30003672_20210525T051545.png" group-title="Gaming",IGN
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/ignaaaaaa-ign1-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1352" tvg-id="USBA300033X1" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/85/USBA300033X1_20210525T051547.png" group-title="Gaming",VENN
+https://venntv-samsungus.amagi.tv/hls/amagi_hls_data_venntvAAA-venntv-samsung-us/CDN/playlist.m3u8?device[did]=%7BPSID%7D&device[dnt]=%7BTARGETOPT%7D&us_privacy=1YNY&app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1357" tvg-id="USAJ22000240H" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/73/USAJ22000240H_20210525T051548.png" group-title="Gaming",ESTV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-estvexta/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1360" tvg-id="USAK3508726A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/02/USAK3508726A_20210525T051711.png" group-title="Gaming",BCC Gaming
+https://8d07e65d3c6c45ee8c01da566493d9d2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ArcadeCloud/playlist.m3u8?ads.wurl_channel=92&ads.wurl_name=ArcadeCloud&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1363" tvg-id="USAJ3504531A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/26/USAJ3504531A_20210525T051610.png" group-title="Gaming",MinecrafTV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b821249444e05d09cc4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-chno="1376" tvg-id="USBB90000726" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/33/USBB90000726_20210428T040240.png" group-title="Kids",PBS KIDS
+http://live-cdn.pbskids.org/auto/redirect.m3u8?device=samsung_fast&coppa=1
+#EXTINF:-1 tvg-chno="1379" tvg-id="USBA3000158L" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/52/USBA3000158L20200730102745.png" group-title="Kids",Nick Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&ads.coppa=1
+#EXTINF:-1 tvg-chno="1383" tvg-id="USBB11000015Q" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/13/USBB11000015Q_20210323T125515.png" group-title="Kids",Moonbug
+https://d30kp0xfvvs2gr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Moonbug-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&coppa=1
+#EXTINF:-1 tvg-chno="1385" tvg-id="USBA2300001S8" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/29/USBA2300001S8_20201028T004919.png" group-title="Kids",The LEGO Channel
+https://d34enhfsgjw5ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LEGO2-prod/mhls?appId=2&feedId=1120-v56&auth-token=1213111&version=sv7.0&deviceId=SDF543&deviceFwVer=4.99?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&coppa=1
+#EXTINF:-1 tvg-chno="1389" tvg-id="USAJ3000009N9" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/03/USAJ3000009N9_20200819T020330.png" group-title="Kids",pocket.watch
+https://a44326c5f2c840b7b385a98ca9db9677.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_PocketWatch/playlist.m3u8?ads.wurl_channel=272&ads.wurl_name=pocketwatch&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
+#EXTINF:-1 tvg-chno="1391" tvg-id="USAK3508708A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/63/USAK3508708A20200730102745.png" group-title="Kids",Toon Goggles
+https://51e4adf99e124ddfa400a8473388bf70.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ToonGoggles/playlist.m3u8?ads.wurl_channel=183&ads.wurl_name=ToonGoggles&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
+#EXTINF:-1 tvg-chno="1392" tvg-id="USAK3508717A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/60/USAK3508717A20200730102745.png" group-title="Kids",TG Junior
+https://5d88c75546d24d4aa5825bff830f5bd3.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TGJunior/playlist.m3u8?ads.wurl_channel=238&ads.wurl_name=TGJunior&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
+#EXTINF:-1 tvg-chno="1395" tvg-id="USAK3508716A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/38/USAK3508716A_20210323T125644.png" group-title="Kids",Kidoodle.TV
+https://06fda8bb401f4c0abb854097c0a3b3d6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_KidoodleTV/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=414&ads.wurl_name=KidoodleTV&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
+#EXTINF:-1 tvg-chno="1398" tvg-id="USAK3508720A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/16/USAK3508720A20200730102745.png" group-title="Kids",ZooMoo
+https://8e3b9b86a94645d8b36c7722967c0086.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Zoomoo/playlist.m3u8?ads.wurl_channel=644&ads.wurl_name=Zoomoo&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
+#EXTINF:-1 tvg-chno="1400" tvg-id="USBA3000043LH" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/32/USBA3000043LH_20210525T051504.png" group-title="Science & Nature",Samsung Wild Life
+https://d1vp12yk4i8ou5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/WildLife2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1404" tvg-id="USBA3400003IP" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/81/USBA3400003IP_20210525T051505.png" group-title="Science & Nature",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1406" tvg-id="USBB800001O7" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/04/USBB800001O7_20210525T051730.png" group-title="Science & Nature",PBS Digital Studios
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvplus-pbs/CDN/playlist.m3u8?p=samsung&device_id=%7BPSID%7D&is_lat=%7BTARGETOPT%7D&us_privacy=1YNY&coppa=0&app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1407" tvg-id="USBA430000220" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/60/USBA430000220_20210525T051550.png" group-title="Science & Nature",Xplore
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-xplore-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1408" tvg-id="USBB600003MK" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/76/USBB600003MK_20210525T051552.png" group-title="Science & Nature",The Jack Hanna Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-litton-jackhannah-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1410" tvg-id="USBA300023G8" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/15/USBA300023G8_20210525T051555.png" group-title="Science & Nature",InWonder
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-inwonder/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1412" tvg-id="USAJ3400014LK" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/40/USAJ3400014LK_20210525T051712.png" group-title="Science & Nature",WeatherSpy
+https://manifest.auditude.com/auditude/variant/jukin_weatherspy_1/aHR0cHM6Ly9qdWtpbi13ZWF0aGVyc3B5LTEtdXMuc2Ftc3VuZy53dXJsLnR2L3BsYXlsaXN0Lm0zdTg=.m3u8?u=19287a324825cc5aacb7e46183c72324&z=268729&g=1000003&k=app_domain=%7BAPP_DOMAIN%7D;app_name=%7BAPP_NAME%7D;coppa=0;us_privacy=1YNY;psid=%7BPSID%7D;targetopt=%7BTARGETOPT%7D;name=WeatherSpy;wurl_channel=387;distributor=samsung&ads.coppa=0&ptcueformat=turner&pttrackingmode=sstm&pttrackingversion=v2&__sid__=anVraW5fd2VhdGhlcnNweV8x&pttagds=false&vttdisc=false&ptadwindow=0
+#EXTINF:-1 tvg-chno="1415" tvg-id="USAK3508705A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/57/USAK3508705A_20210525T051714.png" group-title="Science & Nature",Stingray Naturescape
+https://1fdcca9feb9c4e75bda1c6b0339175fe.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_StingrayNaturescape/playlist.m3u8?ads.wurl_channel=480&ads.wurl_name=StingrayNaturescape&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1430" tvg-id="USBB10000047W" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/47/USBB10000047W_20210525T051506.png" group-title="Sci-Fi & Horror",Unidentified
+https://d3ify425qsio2d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Unidentified-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1433" tvg-id="USAJ17000014C" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/66/USAJ17000014C_20210525T051732.png" group-title="Sci-Fi & Horror",The Asylum
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvplustheasylum/CDN/playlist.m3u8?p=samsung&device_id=%7BPSID%7D&is_lat=%7BTARGETOPT%7D&us_privacy=1YNY&coppa=0&app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1435" tvg-id="USAJ3504713A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/61/USAJ3504713A_20210525T051718.png" group-title="Sci-Fi & Horror",DUST
+https://949e5cd19c404c0c86d71055faf37a0a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Dust/playlist.m3u8?ads.wurl_channel=149&ads.wurl_name=DUST&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1440" tvg-id="USAJ3504502A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/68/USAJ3504502A_20210525T051613.png" group-title="Sci-Fi & Horror",Anime All day
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-chno="1442" tvg-id="USAJ2200016D9" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/74/USAJ2200016D9_20210525T051735.png" group-title="Sci-Fi & Horror",FilmRise Sci-Fi
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvplusfilmrisescifi/CDN/playlist.m3u8?p=samsung&device_id=%7BPSID%7D&is_lat=%7BTARGETOPT%7D&us_privacy=1YNY&coppa=0&app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1445" tvg-id="USAJ3000011S4" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/01/USAJ3000011S4_20210525T051716.png" group-title="Sci-Fi & Horror",Midnight Pulp
+https://9c59d528776940fc9817c9571867375a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_MidnightPulp-1/playlist.m3u8?ads.wurl_channel=678&ads.wurl_name=MidnightPulp&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1450" tvg-id="USBA3000041ZP" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/58/USBA3000041ZP_20201208T081544.png" group-title="Movies",The Movie Hub
+https://dje6yassknq8t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/MovieHub2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1452" tvg-id="USAJ26000054W" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/45/USAJ26000054W20200730102745.png" group-title="Movies",Paramount Movie Channel
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-chno="1455" tvg-id="USBB19000017U" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/31/USBB19000017U_20210525T051431.png" group-title="Movies",Hallmark Movies & More
+https://dqvu8d0acm4xt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/HallmarkMovies-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1457" tvg-id="USBA43000017Q" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/07/USBA43000017Q_20210126T072616.png" group-title="Movies",MovieSphere
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-moviesphere-samsung-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1459" tvg-id="USAJ40000072X" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/78/USAJ40000072X20200730102745.png" group-title="Movies",FilmRise Free Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvplus-filmrisefreemovies/CDN/playlist.m3u8?p=samsung&device_id=%7BPSID%7D&is_lat=%7BTARGETOPT%7D&us_privacy=1YNY&coppa=0&app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1461" tvg-id="USBA300017PK" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/75/USBA300017PK_20210609T003448.png" group-title="Movies",Pluto TV Fantastic
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-chno="1462" tvg-id="USAJ4000006XD" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/28/USAJ4000006XD_20210224T013311.png" group-title="Movies",FilmRise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-samsungtvplusfilmrisefamily/CDN/playlist.m3u8?p=samsung&device_id=%7BPSID%7D&is_lat=%7BTARGETOPT%7D&us_privacy=1YNY&coppa=0&app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1468" tvg-id="USAJ3000007MT" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/02/USAJ3000007MT20200730102745.png" group-title="Movies",Maverick Black Cinema
+https://995059ba59a44c949b7b00ce255a4861.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_MaverickBlackCinema/playlist.m3u8?ads.wurl_channel=451&ads.wurl_name=MaverickBlackCinema&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1471" tvg-id="USAK3508721A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/18/USAK3508721A20200730102745.png" group-title="Movies",Movie Mix
+https://903199661bbc4c2891427b7b03ff36ff.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_MovieMix/playlist.m3u8?ads.wurl_channel=234&ads.wurl_name=MovieMix&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1474" tvg-id="USAJ3504703A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/18/USAJ3504703A20200730102745.png" group-title="Movies",Gravitas Movies
+https://651944d3f0d240738e7d5fa272ac4e24.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_GravitasMovies/playlist.m3u8?ads.wurl_channel=248&ads.wurl_name=GravitasMovies&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1479" tvg-id="USAJ30000148W" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/15/USAJ30000148W_20210525T051435.png" group-title="Movies",CINEVAULT: 80s
+https://fb9770c9cf584d64b3c5e3a26637d5ec.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Cinevault80s/playlist.m3u8?ads.wurl_channel=691&ads.wurl_name=Cinevault80s&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1482" tvg-id="USAK3508709A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/09/USAK3508709A_20210224T013304.png" group-title="Movies",CINEVAULT: Westerns
+https://e7300fca01d348dea7b8f35f2721cc48.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_CinevaultWesterns/playlist.m3u8?ads.wurl_channel=690&ads.wurl_name=CinevaultWesterns&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1484" tvg-id="USBA300005MK" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/65/USBA300005MK_20210209T021417.png" group-title="Movies",Pluto TV Westerns
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-chno="1491" tvg-id="USAJ34000175A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/03/USAJ34000175A_20210323T125703.png" group-title="Movies",The Preview Channel
+https://cca0faa1668740379640339007b036ec.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ThePreviewChannel/playlist.m3u8?ads.wurl_channel=501&ads.wurl_name=ThePreviewChannel&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-chno="1506" tvg-id="USAJ43000061Z" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/78/USAJ43000061Z20200730102745.png" group-title="Music",Latido Music
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vidaprimo-samsungvidaprimolatido/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 tvg-chno="1508" tvg-id="USAJ4800001BL" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/78/USAJ4800001BL_20210525T051440.png" group-title="Music",Vevo Latino
+https://na.linear.zype.com/634387d4-169a-45db-a7e3-10e4e02fbd67/2e2e55d0495040c4868bcdc9ddf16471-samsung/live.m3u8?sitesection_id=vevo_linear:_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&us_privacy=1YNY&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D
+#EXTINF:-1 tvg-chno="1510" tvg-id="USAJ4800002B4" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/73/USAJ4800002B4_20210525T051442.png" group-title="Music",Vevo R&B
+https://na.linear.zype.com/6faae100-3b35-4797-bb10-7f804b932d16/992f9669ef444754919c6bac2c8d11b3-samsung/live.m3u8?sitesection_id=vevo_linear:_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&us_privacy=1YNY&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D
+#EXTINF:-1 tvg-chno="1511" tvg-id="USAJ4800003J5" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/22/USAJ4800003J5_20210525T051439.png" group-title="Music",Vevo Hip-Hop
+https://na.linear.zype.com/52d35886-a8d0-4e05-93ca-3a7d7ef9e086/a5d8206e5d124ad6a6a4306444efbc3c-samsung/live.m3u8?sitesection_id=vevo_linear:_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&us_privacy=1YNY&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D
+#EXTINF:-1 tvg-chno="1514" tvg-id="USAJ4800004PU" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/03/USAJ4800004PU_20210525T051438.png" group-title="Music",Vevo Country
+https://na.linear.zype.com/e92b7406-d2bb-4c1f-aa46-d5575010d9f0/feeb7c9bb5f8446cb46e2cc6697270cb-samsung/live.m3u8?sitesection_id=vevo_linear:_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&us_privacy=1YNY&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D
+#EXTINF:-1 tvg-chno="1517" tvg-id="USAJ4000011W6" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/41/USAJ4000011W6_20210525T051441.png" group-title="Music",Vevo Pop
+https://na.linear.zype.com/b99e99b3-4fad-ceab-7f71-27f319b5416b/c5e1968c592947d79609414b21abf9ff-samsung/live.m3u8?sitesection_id=vevo_linear:_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&us_privacy=1YNY&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D
