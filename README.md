@@ -25,7 +25,11 @@ iptv pro：https://apk4free.org/iptv-pro/
 
 EPG节目单：http://epg.51zmt.top:8000/e.xml
 
-DIYP专用：http://epg.51zmt.top:8000/api/diyp/
+DIYP专用：
+
+http://epg.51zmt.top:8000/api/diyp/
+
+https://epg.112114.xyz/
 
 ###  **三，直播源订阅地址** 
 
