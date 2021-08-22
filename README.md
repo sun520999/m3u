@@ -23,7 +23,11 @@ iptv pro：https://apk4free.org/iptv-pro/
 ###  **二，EPG节目单** 
 
 
-EPG节目单：http://epg.51zmt.top:8000/e.xml
+EPG节目单：
+
+http://epg.51zmt.top:8000/e.xml
+
+http://epg.51zmt.top:8000/e.xml.gz
 
 DIYP专用：
 
