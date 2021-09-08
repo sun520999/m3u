@@ -1483,7 +1483,7 @@ https://cdn.hkdtmb.com/hls/76/index.m3u8
 https://raw.githubusercontent.com/sun520999/IPTV/YouTubeTV/bll.m3u8
 #EXTINF:-1 tvg-id="6073" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube频道",寰宇新闻
 https://raw.githubusercontent.com/sun520999/IPTV/YouTubeTV/hyxw.m3u8
-#EXTINF:-1 tvg-id="6073" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="youtube频道",寰宇新闻
+#EXTINF:-1 tvg-id="6073" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube频道",寰宇新闻
 https://raw.githubusercontent.com/sun520999/IPTV/YouTubeTVhy.m3u8
 #EXTINF:-1 tvg-id="6158" tvg-name="FoodNetwork美食台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoodNetwork.png" group-title="国际",Asian Food Network
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
