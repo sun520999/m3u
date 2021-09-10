@@ -1479,12 +1479,32 @@ http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 https://cdn.hkdtmb.com/hls/76/index.m3u8
 #EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" group-title="港澳台",香港国际财经台[1920*1080]
 https://cdn.hkdtmb.com/hls/76/index.m3u8
-#EXTINF:-1 tvg-id="6073" tvg-name="节点直播" tvg-logo="https://raw.githubusercontent.com/sun520999/IPTV/master/TVlogos/bll.png" group-title="youtube频道",节点直播
+#EXTINF:-1 tvg-id="6073" tvg-name="节点直播" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/bll.png" group-title="youtube频道",节点直播
 https://raw.githubusercontent.com/sun520999/IPTV/YouTubeTV/bll.m3u8
 #EXTINF:-1 tvg-id="6073" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube频道",寰宇新闻
 https://raw.githubusercontent.com/sun520999/IPTV/YouTubeTV/hyxw.m3u8
 #EXTINF:-1 tvg-id="6073" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube频道",寰宇新闻
-https://raw.githubusercontent.com/sun520999/IPTV/YouTubeTVhy.m3u8
+https://raw.githubusercontent.com/sun520999/IPTV/YouTubeTV/hy.m3u8
+#EXTINF:-1 tvg-id="6073" tvg-name="中天新闻" tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/img/ctinews.png" group-title="youtube频道",中天新闻
+https://raw.githubusercontent.com/sun520999/IPTV/YouTubeTV/ctixw.m3u8
+#EXTINF:-1 tvg-id="6073" tvg-name="東森新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="youtube频道",東森新聞
+https://raw.githubusercontent.com/sun520999/IPTV/YouTubeTV/ebcnews.m3u8
+#EXTINF:-1 tvg-id="6073" tvg-name="東森財經新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="youtube频道",東森財經新聞
+https://raw.githubusercontent.com/sun520999/IPTV/YouTubeTV/ebc.m3u8
+#EXTINF:-1 tvg-id="6073" tvg-name="華視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/img/ctsnews.png" group-title="youtube频道",華視新聞
+https://raw.githubusercontent.com/sun520999/IPTV/YouTubeTV/hsxw.m3u8
+#EXTINF:-1 tvg-id="6073" tvg-name="民視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/img/msxw.png" group-title="youtube频道",民視新聞
+https://raw.githubusercontent.com/sun520999/IPTV/YouTubeTV/msxw.m3u8
+#EXTINF:-1 tvg-id="6073" tvg-name="三立新聞" tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/img/slxw.png" group-title="youtube频道",三立新聞
+https://raw.githubusercontent.com/sun520999/IPTV/YouTubeTV/slxw.m3u8
+#EXTINF:-1 tvg-id="6073" tvg-name="台視新聞" tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/img/tsxw.png" group-title="youtube频道",台視新聞
+https://raw.githubusercontent.com/sun520999/IPTV/YouTubeTV/tsxw.png
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS 55頻道" tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/img/tvbs55.png" group-title="youtube频道",TVBS 55頻道
+https://raw.githubusercontent.com/sun520999/IPTV/YouTubeTV/tvbsnews.m3u8
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS 56頻道" tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/img/tvbs56news.png" group-title="youtube频道",TVBS 56頻道
+https://raw.githubusercontent.com/sun520999/IPTV/YouTubeTV/tvbs.m3u8
+#EXTINF:-1 tvg-id="6073" tvg-name="新唐人亞太台" tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/img/xintangrenasia.png" group-title="youtube频道",新唐人亞太台
+https://raw.githubusercontent.com/sun520999/IPTV/YouTubeTV/xintangrenasia.m3u8
 #EXTINF:-1 tvg-id="6158" tvg-name="FoodNetwork美食台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoodNetwork.png" group-title="国际",Asian Food Network
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="6158" tvg-name="FoodNetwork美食台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoodNetwork.png" group-title="国际",Asian Food Network
