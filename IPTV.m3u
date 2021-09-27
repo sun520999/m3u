@@ -1,6 +1,6 @@
-﻿#EXTM3U
- #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/TVG-logo/gzh.png" group-title="正在直播",晴园
-https://cdn.jsdelivr.net/gh/sun520999/m3u/Video/m3u.mp4
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
+
+
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
 http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经
@@ -69,8 +69,7 @@ http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/ind
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/CCTV-%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97.png" group-title="央视",CCTV 电视指南
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/CCTV-%E4%B8%AD%E8%A7%86%E8%B4%AD%E7%89%A9.png" group-title="央视",CCTV 中视购物
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226385/1.m3u8
+
 #EXTINF:-1 tvg-name="央视精品" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/CCTV-%E5%A4%AE%E8%A7%86%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81.png" group-title="央视",CCTV 央视文化精品
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/CCTV4-%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85%E6%AC%A7%E6%B4%B2.png" group-title="央视",CCTV4-中文国际欧洲
@@ -140,9 +139,15 @@ http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
 http://live.geermurmt.com/qhws/sd/live.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86.png" group-title="卫视",海峡卫视
-
+rtsp://183.252.176.54:554/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
+#EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86.png" group-title="卫视",海峡卫视 备用
+rtsp://183.252.166.199:554/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
 #EXTINF:-1 tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
 http://womlive.cloud.wo.cn/tvlive/100022/otpzod_otpzod,100022_hls_pull_2000K_live.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视
+http://39.134.93.229:6610/000000001000/nxweishi/1.m3u8?.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视 标清
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
 http://39.134.66.10/PLTV/88888888/224/3221225872/index.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
@@ -157,8 +162,6 @@ http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225761/1/ind
 http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221227022/index.m3u8
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视 标清
 http://39.135.138.59:18890/PLTV/88888910/224/3221225730/index.m3u8
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视 标清
-http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225842/index.m3u8
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视",三沙卫视 标清
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226544/1.m3u8
 #EXTINF:-1 tvg-name="南方卫视" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E5%8D%97%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="卫视",南方卫视 标清
@@ -265,6 +268,8 @@ http://live6.plus.hebtv.com/sekjx/hd/live.m3u8
 http://39.134.39.39/PLTV/88888888/224/3221226289/index.m3u8
 #EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E7%A6%8F%E5%BB%BA%E5%B0%91%E5%84%BF.png" group-title="少儿",福建少儿
 
+#EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E7%A6%8F%E5%BB%BA%E5%B0%91%E5%84%BF.png" group-title="少儿",福建少儿 备用
+
 #EXTINF:-1 tvg-name="福州少儿" tvg-logo="http://www.tvyan.com/uploads/dianshi/fztv4.jpg" group-title="少儿",福州少儿
 http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 #EXTINF:-1 tvg-name="内蒙古少儿" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E5%86%85%E8%92%99%E5%8F%A4%E5%B0%91%E5%84%BF.png" group-title="少儿",内蒙古少儿
@@ -281,8 +286,12 @@ http://111.31.3.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c54_lb_140_600_t10/c54_
 http://111.31.3.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_91_1080P_t10/c55_lb_91_1080P_t10.m3u8
 #EXTINF:-1 tvg-logo="https://img2.baidu.com/it/u=3157094272,583346488&fm=26&fmt=auto&gp=0.jpg" group-title="少儿",奥特曼
 http://111.31.3.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c57_lb_210_600_t10/c57_lb_210_600_t10.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/damv6zA6kxIinxO4FWSrRfhosPp.jpg" group-title="少儿",成龙历险记
+http://va.huya.com/src/1423787836-1423787836-6115122192062611456-2847699128-10057-A-0-1.flv?wsTime
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/cbooqJWoAYwT5NCHM19YTAeDJ2K.jpg" group-title="少儿",网球王子
+http://va.huya.com/src/1423782044-1423782044-6115097315612033024-2847687544-10057-A-0-1.flv?wsTime
 #EXTINF:-1 tvg-logo="https://img0.baidu.com/it/u=4162622106,3039612230&fm=253&fmt=auto&app=120&f=PNG?w=192&h=192" group-title="少儿",小猪佩奇
-
+http://baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
 #EXTINF:-1 tvg-logo="https://img1.baidu.com/it/u=1817312989,3735421072&fm=26&fmt=auto&gp=0.jpg" group-title="少儿",猫和老鼠
 http://111.31.3.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c52_lb_83_600_t10/c52_lb_83_600_t10.m3u8
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/i7iAASvVMkbLxqO7h3iB5zMvIoo.jpg" group-title="少儿",蜡笔小新
@@ -314,7 +323,7 @@ http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 #EXTINF:-1 tvg-name="MAX极速汽车" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/MAX%E6%9E%81%E9%80%9F%E6%B1%BD%E8%BD%A6.png" group-title="体育",MAX极速汽车
 http://39.134.39.38/PLTV/88888888/224/3221226195/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/MLB%20NETWORK.png" group-title="体育",MLB NETWORK
-
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/Red%20Bull%20TV.png" group-title="体育",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/Star%20Sports.png" group-title="体育",Star Sports
@@ -367,6 +376,12 @@ http://shbu.live.bestvcdn.com.cn:8080/live/program/live/yxfyhd/2300000/mnf.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225653/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E9%BB%91%E8%8E%93%E7%94%B5%E7%AB%9E.png" group-title="电竞",黑莓电竞 备用
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225931/1.m3u8
+#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/cefc1e178a82b9014a909d970cc2be773912b31b414d?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg" group-title="电竞",和平精英
+https://d1--cn-gotcha204.bilivideo.com/live-bvc/750616/live_50329337_6907945_4000/index.m3u8?expires=1630914243&len=0&oi=1008694412&pt=web&qn=0&trid=1007274789406e284402ad6cb509dccb0cfc&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha04&sign=3a70111aede57d4e0de54f7fdf3cf991&p2p_type=1&src=5&sl=1&free_type=0&sk=c9c6154426932efa80d25af02e87a3bd
+#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/b2de9c82d158ccbf6c8162a7b790ab3eb13533faeb5f?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg" group-title="电竞",王者荣耀
+https://d1--cn-gotcha204.bilivideo.com/live-bvc/483937/live_392836434_52698792_4000/index.m3u8?expires=1630913782&len=0&oi=1008694412&pt=web&qn=0&trid=1007dc58087e67cc452ca62851568bfefd72&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha04&sign=4996b84af7367917bce7102330f99645&p2p_type=1&src=13&sl=2&free_type=0&sk=c9c6154426932efa80d25af02e87a3bd
+#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/35a85edf8db1cb134954ae30021e414e9258d109ddf7?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg" group-title="电竞",使命召唤
+https://d1--cn-gotcha03.bilivideo.com/live-bvc/509781/live_531838687_80622745.flv?expires=1631166778&len=0&oi=3746059745&pt=web&qn=0&trid=1000bc70a6188d6649ce9eb72683a688254e&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha03&sign=0576c95e6591a0fe7976d499638508c8&p2p_type=4294967294&src=4&sl=1&free_type=0&sk=4b1289f1e3860d5e8f460a846624ae66
 #EXTINF:-1 tvg-name="茶频道" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E8%8C%B6%E9%A2%91%E9%81%93.png" group-title="生活纪实",茶频道
 http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226548/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E4%B8%AD%E5%8D%8E%E7%89%B9%E4%BA%A7.png" group-title="生活纪实",中华特产
@@ -565,8 +580,12 @@ http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jingsepd/1300000/mnf.m3u8
 #EXTINF:-1 group-title="SiTV",SiTV魅力足球
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/4K%E8%8A%B1%E5%9B%AD.png" group-title="4K超清",4K花园
+#EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/4K%E8%8A%B1%E5%9B%AD.png" group-title="4K超清",4K花园娱乐台
 http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/4K%E8%8A%B1%E5%9B%AD.png" group-title="4K超清",4K花园电影台
+http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/4K%E8%8A%B1%E5%9B%AD.png" group-title="4K超清",4K花园生活台
+http://223.110.243.142/ott.js.chinamobile.com/PLTV/3/224/3221227746/index.m3u8
 #EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E7%BA%AF%E4%BA%AB4K.png" group-title="4K超清",纯享4K
 http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E7%BA%AF%E4%BA%AB4K.png" group-title="4K超清",纯享4K 备用
@@ -581,16 +600,18 @@ http://124.232.231.246:6610/000000001001/201500000218/index.m3u8?IASHttpSessionI
 http://177.20.208.58:8000/play/a03r/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/tild3436-6530-4230-a361-336166653564/_40.png" group-title="4K超清",HOME 4K
 http://185.228.135.48:8080/tv_home_4k_uhd/index.m3u8
-#EXTINF:-1 group-title="4K超清",4KCESHI
-http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
 #EXTINF:-1 group-title="4K超清",荆门樱花4K
 http://117.136.154.101:80/wh7f454c46tw2373653238_351197778/PLTV/88888888/224/3221225800/index.m3u8?icpid=88888888&RTS=1628353324&from=1&hms_devid=463&vqe=3
+#EXTINF:-1 group-title="4K超清",荆门樱花4K 备用
+http://117.136.154.98/PLTV/88888888/224/3221225800/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E5%8C%97%E4%BA%AC4K%E8%B6%85%E6%B8%85.png" group-title="4K超清",北京4K超清
 http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA4K.png" group-title="4K超清",欢笑剧场 4K
 http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
-#EXTINF:-1 group-title="4K超清",4K超高清电影
+#EXTINF:-1 tvg-logo="https://img1.baidu.com/it/u=4103386392,307808369&fm=26&fmt=auto&gp=0.jpg" group-title="4K超清",4K超高清电影
 http://60.255.49.202/live/emdy4k_8000.m3u8
+#EXTINF:-1 tvg-logo="https://img1.baidu.com/it/u=4103386392,307808369&fm=26&fmt=auto&gp=0.jpg" group-title="4K超清",4K超高清测试
+http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/nuxyCdWRUrKt31yGgo5w8637x3h.jpg" group-title="明星专场",刘德华
 http://tx.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8?wsSecret=2df1c4d5bcfc221c8d7136a1e0a7891d&wsTime=6124dd73&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acp1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/yQuDBTzm7xWlJICNvl20OmcJP80.jpg" group-title="明星专场",古天乐
@@ -600,7 +621,7 @@ http://bd.hls.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/w6fCmYDlTNYfgdXBZjZH107c9zJ.jpg" group-title="明星专场",吴彦祖
 http://bd.hls.huya.com/huyalive/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.m3u8?wsSecret=b400f80a52202fa0d8f48c3a2421e2b6&wsTime=611e177e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acs7%3B&fs=bgct
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/rO1e30Yq7KzgZFAXZDosyAShhhM.jpg" group-title="明星专场",周星驰
-http://bd.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.m3u8?wsSecret=1a073cec4152a82953e78fceb25fbfc3&wsTime=611a6ab9&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Aq6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+http://va.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.flv?wsTime
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/uDPYSiZrW7OZ79qgcgkWefALlXY.jpg" group-title="明星专场",周润发
 http://bd.hls.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1-imgplus.m3u8?wsSecret=5736af36ba9c29d633f67a8b03a2cd90&wsTime=611e1827&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Acs6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/c2gBBUSd7JIfs20W76IutS4o3j4.jpg" group-title="明星专场",孙红雷
@@ -616,23 +637,25 @@ http://tx.flv.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/yvm10wHnOQaGl9a4X9KnDHaoJ8W.jpg" group-title="明星专场",李小龙
 http://bd.hls.huya.com/huyalive/1449588725-1449588725-6225936166525337600-3048959678-10057-A-0-1.m3u8?wsSecret=ed821304d90d641344832186ef0a7ede&wsTime=611e19e1&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Afz1%3B&fs=bgct
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/7d4hgOzFW7CWPcE92eTSEFRSObC.jpg" group-title="明星专场",李连杰
-http://al.hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.m3u8?wsSecret=28aabc57747c01e8476856964e2b6d39&wsTime=611e1842&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3An4%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+http://va.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.flv?wsTime
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/8gS55Yvd4XR9ntBGQiDN3vma712.jpg" group-title="明星专场",林正英
 http://tx.flv.huya.com/huyalive/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.flv?wsSecret=dc51b7292b2157159bf3a2e98397df03&wsTime=610fc9c7&uid=0&seqid=16283382344541640&ctype=tars_mobile&ver=1&t=103
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/nQbSQAws5BdakPEB5MtiqWVeaMV.jpg" group-title="明星专场",梁朝伟
 http://bd.hls.huya.com/src/1524439830-1524439830-6547419214569799680-3049003116-10057-A-0-1.m3u8?wsSecret=6d27ee45570ce3fa2b48911dbd42acd4&wsTime=611e1956&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/fV66FwEAm6E4KIV9XHRmTc5I363.jpg" group-title="明星专场",沈腾
-http://tx.hls.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1-imgplus.m3u8?wsSecret=cc935eee6eb4a28e1d972067e30e72fb&wsTime=611a6afd&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Ax3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+http://va.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1-imgplus.flv?wsTime
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/sI74unTQvKFYb92MaPcQ4lympry.jpg" group-title="明星专场",王宝强
 http://bd.hls.huya.com/src/1199573518691-1199573518691-5487435360524828672-2399147160838-10057-A-0-1.m3u8?wsSecret=b68744bd035ca788f99953f8ef8b1e57&wsTime=611e27ad&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Ad2%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/hTlhrrZMj8hZVvD17j4KyAFWBHc.jpg" group-title="明星专场",甄子丹
 http://bd.hls.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1-imgplus.m3u8?wsSecret=42e711d6a5aaab05d03d30dc21c956ae&wsTime=611e1993&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Ad3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/s0JXQhCmKUmtxiuI2rjH8hfE470.jpg" group-title="明星专场",葛优
 http://bd.hls.huya.com/src/28302995-28302995-121560437903851520-3048959616-10057-A-0-1.m3u8?wsSecret=076d965c4af00e50b43ba95998ab41dc&wsTime=611e199b&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+#EXTINF:-1 tvg-logo="https://img2.baidu.com/it/u=1556210003,2643187920&fm=26&fmt=auto&gp=0.jpg" group-title="明星专场",许冠英
+http://va.huya.com/src/1524418094-1524418094-6547325859160653824-3048959644-10057-A-0-1-imgplus.flv?wsTime
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/gNn875jcFFxQD9IX7LhpZeAPqtk.jpg" group-title="明星专场",谢霆锋
 http://tx.hls.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.m3u8?wsSecret=65a826a508c32b5898389f7c472e497c&wsTime=611e187d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Anc4%3B&fs=bgct
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/zOzz4woq7dfcll9AR1yGiQbjY4.jpg" group-title="明星专场",黄渤
-http://bd.hls.huya.com/src/1524439832-1524439832-6547419223159734272-3049003120-10057-A-0-1.m3u8?wsSecret=3642eee1d7d7617ebc4775caa3fac2a9&wsTime=611e1942&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Afz1%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
+http://va.huya.com/src/1448737849-1448737849-6222281681932386304-2847687520-10057-A-0-1.flv?wsTime
 #EXTINF:-1 tvg-logo="https://s.pc.qq.com/tousu/img/20210717/266153_1626524669.jpg" group-title="电影精选",黑寡妇
 https://nhls.mcloud.139.com/hls/KEc2d70882b0125862a1dc4700348c7a32/single/video/0/1080/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.nfmovies.com/uploads/allimg/210712/0580ea5e64434282.jpg" group-title="电影精选",怪奇宅
@@ -671,20 +694,24 @@ http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/virtuallive/5101059662/150/in
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226754/index.m3u8
 #EXTINF:-1 group-title="影视轮播",影视5
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226736/index.m3u8
-#EXTINF:-1 tvg-logo="http://img.zwbk.org/baike/bpic/2010/12/13/20101213044907126_8002.jpg" group-title="影视轮播",邵氏电影
-
-#EXTINF:-1 tvg-logo="http://img.zwbk.org/baike/bpic/2010/12/13/20101213044907126_8002.jpg" group-title="影视轮播",邵氏电影 备用
-
+#EXTINF:-1 group-title="影视轮播",影视6
+http://39.134.118.91/live.cache.cmvideo.cn:8088/wd_r2/virtuallive/5102010221/75/index.m3u8?&encrypt=1
+#EXTINF:-1 group-title="影视轮播",影视7
+http://39.134.118.91/live.cache.cmvideo.cn:8088/wd_r2/virtuallive/5100192783/150/index.m3u8?&encrypt=1
 #EXTINF:-1 group-title="影视轮播",仙侠玄幻
 http://111.31.3.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c55_lb_148_600_t10/c55_lb_148_600_t10.m3u8
-#EXTINF:-1 group-title="影视轮播",经典港片
-http://111.31.3.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8
-#EXTINF:-1 group-title="影视轮播",流行港片
-http://111.31.3.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_113_600_t10/c51_lb_113_600_t10.m3u8
 #EXTINF:-1 group-title="影视轮播",惊悚午夜
 http://111.31.3.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_115_600_t10/c51_lb_115_600_t10.m3u8
 #EXTINF:-1 group-title="影视轮播",日韩影院
 http://111.31.3.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c57_lb_212_600_t10/c57_lb_212_600_t10.m3u8
+#EXTINF:-1 group-title="影视轮播",流行港片
+http://111.31.3.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_113_600_t10/c51_lb_113_600_t10.m3u8
+#EXTINF:-1 group-title="影视轮播",经典港片
+http://111.31.3.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8
+#EXTINF:-1 tvg-logo="http://img.zwbk.org/baike/bpic/2010/12/13/20101213044907126_8002.jpg" group-title="影视轮播",邵氏电影
+
+#EXTINF:-1 tvg-logo="http://img.zwbk.org/baike/bpic/2010/12/13/20101213044907126_8002.jpg" group-title="影视轮播",邵氏电影 备用
+
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/chc-action-cn.png" group-title="影视频道",CHC动作电影
 http://womlive.cloud.wo.cn/tvlive/100073/otpzod_otpzod,100073_hls_pull_2000K_live.m3u8
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/chc-hd-cn.png" group-title="影视频道",CHC高清电影
@@ -779,6 +806,8 @@ http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
 #EXTINF:-1 group-title="影视频道",绍兴影视
 http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/f9dcd100baa1cd11e07e60e9b512c8fcc2ce2d2a?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg" group-title="影视频道",宁夏影视
+http://39.134.93.229:6610/000000001000/nxyingshi/1.m3u8?
 #EXTINF:-1 group-title="影视频道",西安影视
 http://stream2.xiancity.cn/xatv4/sd/live.m3u8
 #EXTINF:-1 group-title="虎牙",五福星系列_虎牙
@@ -881,6 +910,158 @@ http://txdirect.flv.huya.com/huyalive/1444281068-1444281068-6203139953291952128-
 http://tx.flv.huya.com/src/1445186641-1445186641-6207029359711092736-4696433912-10057-A-0-1.flv?wsSecret=2f7947aa21bdc37d90dba08db4992865&wsTime=610fc9eb&uid=0&seqid=16283382522292910&ctype=tars_mobile&ver=1&t=103
 #EXTINF:-1 group-title="虎牙",麦子动漫解说_虎牙
 http://txdirect.flv.huya.com/huyalive/94525224-2706361404-11623733721336643584-2671908056-10057-A-0-1.flv?wsSecret=580f14cd437a293bcede13b54d2b3712&wsTime=610fc9db&uid=0&seqid=16283382530871368&ctype=tars_mobile&ver=1&t=103
+#EXTINF:-1 group-title="虎牙 备用",周星驰
+http://vip.auney.cn/api/huya.php?id=11342412
+#EXTINF:-1 group-title="虎牙 备用",林正英
+http://vip.auney.cn/api/huya.php?id=11342421
+#EXTINF:-1 group-title="虎牙 备用",成龙
+http://vip.auney.cn/api/huya.php?id=11342386
+#EXTINF:-1 group-title="虎牙 备用",李连杰
+http://vip.auney.cn/api/huya.php?id=11342390
+#EXTINF:-1 group-title="虎牙 备用",赌片
+http://vip.auney.cn/api/huya.php?id=11342399
+#EXTINF:-1 group-title="虎牙 备用",黑帮
+http://vip.auney.cn/api/huya.php?id=11336719
+#EXTINF:-1 group-title="虎牙 备用",吴京
+http://vip.auney.cn/api/huya.php?id=11602045
+#EXTINF:-1 group-title="虎牙 备用",科幻动作
+http://vip.auney.cn/api/huya.php?id=11352964
+#EXTINF:-1 group-title="虎牙 备用",国产喜剧
+http://vip.auney.cn/api/huya.php?id=11602044
+#EXTINF:-1 group-title="虎牙 备用",丧尸
+http://vip.auney.cn/api/huya.php?id=11352962
+#EXTINF:-1 group-title="虎牙 备用",五福星
+http://vip.auney.cn/api/huya.php?id=11282233
+#EXTINF:-1 group-title="虎牙 备用",甄子丹
+http://vip.auney.cn/api/huya.php?id=11352935
+#EXTINF:-1 group-title="虎牙 备用",卧底警匪
+http://vip.auney.cn/api/huya.php?id=11352886
+#EXTINF:-1 group-title="虎牙 备用",周润发
+http://vip.auney.cn/api/huya.php?id=11342387
+#EXTINF:-1 group-title="虎牙 备用",变形金刚
+http://vip.auney.cn/api/huya.php?id=11342433
+#EXTINF:-1 group-title="虎牙 备用",沈腾
+http://vip.auney.cn/api/huya.php?id=11601968
+#EXTINF:-1 group-title="虎牙 备用",盗墓系列
+http://vip.auney.cn/api/huya.php?id=11352913
+#EXTINF:-1 group-title="虎牙 备用",洪金宝
+http://vip.auney.cn/api/huya.php?id=11342427
+#EXTINF:-1 group-title="虎牙 备用",灾难电影
+http://vip.auney.cn/api/huya.php?id=11352871
+#EXTINF:-1 group-title="虎牙 备用",终结者电影
+http://vip.auney.cn/api/huya.php?id=11352979
+#EXTINF:-1 group-title="虎牙 备用",徐峥
+http://vip.auney.cn/api/huya.php?id=11602043
+#EXTINF:-1 group-title="虎牙 备用",漫威
+http://vip.auney.cn/api/huya.php?id=11602075
+#EXTINF:-1 group-title="虎牙 备用",刘德华
+http://vip.auney.cn/api/huya.php?id=11342424
+#EXTINF:-1 group-title="虎牙 备用",韩国犯罪动作
+http://vip.auney.cn/api/huya.php?id=11601956
+#EXTINF:-1 group-title="虎牙 备用",速度与激情
+http://vip.auney.cn/api/huya.php?id=11352949
+#EXTINF:-1 group-title="虎牙 备用",香港恐怖
+http://vip.auney.cn/api/huya.php?id=11601960
+#EXTINF:-1 group-title="虎牙 备用",异性怪物
+http://vip.auney.cn/api/huya.php?id=11352938
+#EXTINF:-1 group-title="虎牙 备用",历年贺岁档
+http://vip.auney.cn/api/huya.php?id=11601986
+#EXTINF:-1 group-title="虎牙 备用",杰森斯坦森
+http://vip.auney.cn/api/huya.php?id=11336572
+#EXTINF:-1 group-title="虎牙 备用",港产搞笑
+http://vip.auney.cn/api/huya.php?id=11342423
+#EXTINF:-1 group-title="虎牙 备用",复仇者联盟
+http://vip.auney.cn/api/huya.php?id=11602041
+#EXTINF:-1 group-title="虎牙 备用",惊悚
+http://vip.auney.cn/api/huya.php?id=11342432
+#EXTINF:-1 group-title="虎牙 备用",黑帮电影
+http://vip.auney.cn/api/huya.php?id=11342419
+#EXTINF:-1 group-title="虎牙 备用",史诗战争
+http://vip.auney.cn/api/huya.php?id=11342435
+#EXTINF:-1 group-title="虎牙 备用",丧尸2
+http://vip.auney.cn/api/huya.php?id=11342422
+#EXTINF:-1 group-title="虎牙 备用",粤语港片
+http://vip.auney.cn/api/huya.php?id=11352894
+#EXTINF:-1 group-title="虎牙 备用",钢铁侠
+http://vip.auney.cn/api/huya.php?id=11602034
+#EXTINF:-1 group-title="虎牙 备用",机甲电影
+http://vip.auney.cn/api/huya.php?id=11352876
+#EXTINF:-1 group-title="虎牙 备用",猎奇电影
+http://vip.auney.cn/api/huya.php?id=11601970
+#EXTINF:-1 group-title="虎牙 备用",韩国电影
+http://vip.auney.cn/api/huya.php?id=11352880
+#EXTINF:-1 group-title="虎牙 备用",欧美特工
+http://vip.auney.cn/api/huya.php?id=11602069
+#EXTINF:-1 group-title="虎牙 备用",加勒比海盗
+http://vip.auney.cn/api/huya.php?id=11602046
+#EXTINF:-1 group-title="虎牙 备用",指环王
+http://vip.auney.cn/api/huya.php?id=11352916
+#EXTINF:-1 group-title="虎牙 备用",哈利波特
+http://vip.auney.cn/api/huya.php?id=11352906
+#EXTINF:-1 group-title="虎牙 备用",电锯惊魂
+http://vip.auney.cn/api/huya.php?id=11342437
+#EXTINF:-1 group-title="虎牙 备用",最佳拍档
+http://vip.auney.cn/api/huya.php?id=11342397
+#EXTINF:-1 group-title="虎牙 备用",金庸电影
+http://vip.auney.cn/api/huya.php?id=11352897
+#EXTINF:-1 group-title="虎牙 备用",热血高校
+http://vip.auney.cn/api/huya.php?id=11342402
+#EXTINF:-1 group-title="虎牙 备用",许氏电影
+http://vip.auney.cn/api/huya.php?id=11602033
+#EXTINF:-1 group-title="虎牙 备用",第一滴血
+http://vip.auney.cn/api/huya.php?id=11352934
+#EXTINF:-1 group-title="虎牙 备用",小丑电影
+http://vip.auney.cn/api/huya.php?id=11352941
+#EXTINF:-1 group-title="虎牙 备用",外国电影
+http://vip.auney.cn/api/huya.php?id=11342428
+#EXTINF:-1 group-title="虎牙 备用",游戏改编电影
+http://vip.auney.cn/api/huya.php?id=10871113
+#EXTINF:-1 group-title="虎牙 备用",奥斯卡提名
+http://vip.auney.cn/api/huya.php?id=11352969
+#EXTINF:-1 group-title="虎牙 备用",黑夜传说
+http://vip.auney.cn/api/huya.php?id=11352881
+#EXTINF:-1 group-title="虎牙 备用",开心鬼
+http://vip.auney.cn/api/huya.php?id=11342388
+#EXTINF:-1 group-title="虎牙 备用",香港霸王花
+http://vip.auney.cn/api/huya.php?id=11352909
+#EXTINF:-1 group-title="虎牙 备用",爱情公寓
+http://vip.auney.cn/api/huya.php?id=11336726
+#EXTINF:-1 group-title="虎牙 备用",武林外传
+http://vip.auney.cn/api/huya.php?id=11352915
+#EXTINF:-1 group-title="虎牙 备用",插翅难逃
+http://vip.auney.cn/api/huya.php?id=11352940
+#EXTINF:-1 group-title="虎牙 备用",神探狄仁杰
+http://vip.auney.cn/api/huya.php?id=11352958
+#EXTINF:-1 group-title="虎牙 备用",家有儿女
+http://vip.auney.cn/api/huya.php?id=11352872
+#EXTINF:-1 group-title="虎牙 备用",少年包青天
+http://vip.auney.cn/api/huya.php?id=11342393
+#EXTINF:-1 group-title="虎牙 备用",好先生
+http://vip.auney.cn/api/huya.php?id=11352973
+#EXTINF:-1 group-title="虎牙 备用",火蓝刀锋
+http://vip.auney.cn/api/huya.php?id=11336592
+#EXTINF:-1 group-title="虎牙 备用",知否知否
+http://vip.auney.cn/api/huya.php?id=11602068
+#EXTINF:-1 group-title="虎牙 备用",士兵突击
+http://vip.auney.cn/api/huya.php?id=11342430
+#EXTINF:-1 group-title="虎牙 备用",搞笑一家人
+http://vip.auney.cn/api/huya.php?id=11601978
+#EXTINF:-1 group-title="虎牙 备用",少帅
+http://vip.auney.cn/api/huya.php?id=11342414
+#EXTINF:-1 group-title="虎牙 备用",生活大爆炸
+http://vip.auney.cn/api/huya.php?id=11352959
+#EXTINF:-1 group-title="虎牙 备用",卫国无敌
+http://vip.auney.cn/api/huya.php?id=11336578
+#EXTINF:-1 group-title="虎牙 备用",大宅门
+http://vip.auney.cn/api/huya.php?id=11601982
+#EXTINF:-1 group-title="虎牙 备用",鹿鼎记陈小春
+http://vip.auney.cn/api/huya.php?id=11352910
+#EXTINF:-1 group-title="虎牙 备用",炊事班的故事
+http://vip.auney.cn/api/huya.php?id=11352895
+#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/eaf81a4c510fd9f97107c1b6222dd42a2934a4d9?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg" group-title="哔哩哔哩",新白娘子传奇
+https://d1--cn-gotcha04.bilivideo.com/live-bvc/953707/live_415183174_49603102.flv?expires=1631166487&len=0&oi=3746059745&pt=web&qn=0&trid=10007cba6143aec3408db9f3f330abde597f&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha04&sign=3e7b7d201659cae90a48ee68bf541828&p2p_type=4294967294&src=8&sl=1&free_type=0&sk=18232a4fcc82e4c037c33d7e083619b4
+#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/d043ad4bd11373f0359c770eae0f4bfbfaed04fb?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg" group-title="哔哩哔哩",少年包青天
+https://d1--cn-gotcha04.bilivideo.com/live-bvc/720060/live_100661122_1884224.flv?expires=1631166623&len=0&oi=3746059745&pt=web&qn=0&trid=100006d2e988dcc549728b8e750f9a496baf&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha04&sign=406d5623e54221fff78c7e5e50e08b9d&p2p_type=4294967294&src=9&sl=1&free_type=0&sk=18232a4fcc82e4c037c33d7e083619b4
 #EXTINF:-1 tvg-id="6169" tvg-name="亚洲美食频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/afc.png" group-title="港澳台",AFC-美食[1280*720]
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="708" tvg-name="BabyTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyTV.png" group-title="港澳台",Baby TV Eng
@@ -1479,6 +1660,7 @@ http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 https://cdn.hkdtmb.com/hls/76/index.m3u8
 #EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" group-title="港澳台",香港国际财经台[1920*1080]
 https://cdn.hkdtmb.com/hls/76/index.m3u8
+
 #EXTINF:-1 tvg-id="6073" tvg-name="节点直播" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/bll.png" group-title="youtube频道",节点直播
 https://raw.githubusercontent.com/sun520999/IPTV/YouTubeTV/bll.m3u8
 #EXTINF:-1 tvg-id="6073" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="youtube频道",寰宇新闻
@@ -1505,6 +1687,8 @@ https://raw.githubusercontent.com/sun520999/IPTV/YouTubeTV/tvbsnews.m3u8
 https://raw.githubusercontent.com/sun520999/IPTV/YouTubeTV/tvbs.m3u8
 #EXTINF:-1 tvg-id="6073" tvg-name="新唐人亞太台" tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/img/xintangrenasia.png" group-title="youtube频道",新唐人亞太台
 https://raw.githubusercontent.com/sun520999/IPTV/YouTubeTV/xintangrenasia.m3u8
+
+
 #EXTINF:-1 tvg-id="6158" tvg-name="FoodNetwork美食台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoodNetwork.png" group-title="国际",Asian Food Network
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="6158" tvg-name="FoodNetwork美食台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoodNetwork.png" group-title="国际",Asian Food Network
@@ -1617,11 +1801,11 @@ http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.radio.cn/img/default/2014/9/18/1411025662260.jpg" group-title="网络电台(无图像)",香港之声
 http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/Video/version.png" group-title="【关于直播】",版本更新 2021.9.8
-https://raw.githubusercontent.com/390517840/iptv/main/about/version.mkv
-#EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/Video/Telegram.png" group-title="【关于直播】",扫码加入电报群
-https://raw.githubusercontent.com/390517840/iptv/main/about/Telegram.mkv
-#EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/Video/perfect_player.png" group-title="【关于直播】",Perfect Player教程
-https://raw.githubusercontent.com/390517840/iptv/main/about/perfect_player.mkv
-#EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/Video/diyp.png" group-title="【关于直播】",DIYP教程
-https://raw.githubusercontent.com/390517840/iptv/main/about/diyp.mkv
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/img/logo.png" group-title="【关于直播】",反馈交流
+https://gitee.com/ygyzy/m3u/raw/master/Video/gzh.mp4
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/img/kexue.png" group-title="【关于直播】",墙外花香
+https://gitee.com/ygyzy/m3u/raw/master/Video/ke_xue_shang_wang_jie_dian.mp4
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/img/shengming.png" group-title="【关于直播】",免责声明
+https://gitee.com/ygyzy/m3u/raw/master/Video/sm.mp4
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/sun520999/m3u/img/version.png" group-title="【关于直播】",版本更新 2021.9.28Beta
+https://cdn.jsdelivr.net/gh/sun520999/m3u/Video/version.mkv
