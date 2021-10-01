@@ -2,17 +2,6 @@
 {
   "sites": [
     {
-    "key": "csp_Juztv",
-    "name": "爱迪(爬虫)",
-    "type": 3,
-    "api": "csp_Juztv",
-    "searchable": 1,
-    "quickSearch": 0,
-    "filterable": 1
-    },
-{
-  "sites": [
-    {
     "key": "csp_Aidi",
     "name": "爱迪(爬虫)",
     "type": 3,
@@ -348,6 +337,13 @@
     {
       "group": "自定义",
       "channels": [
+        {
+          "name": "开国大典4K",
+          "urls": [
+            "https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBcWRaQXVqUUttYXpiUVJnSTFiVnJzVDNRSFk_ZT0yUDA5a0g"
+          ]
+        },
+        {
         {
           "name": "安徽经视",
           "urls": [
